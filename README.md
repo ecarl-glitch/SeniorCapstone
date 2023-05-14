@@ -6,4 +6,5 @@
 
 <b>```geneAnalysis```</b> contains scripts and data to determine genes associated with ADHD that are involved in tryptophan metabolism
 
-Each folder contains a READ ME file with greater explanation of code and data
+Each folder contains a READ ME file with greater explanation of code and data </br>
+Paper detailing analysis and results is avaliable [here](https://docs.google.com/document/d/1HLgjZZPi1MyuLAyUnruNSKfVOe0Apns5vnzqVKbPjPU/edit?usp=sharing)
