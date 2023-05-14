@@ -1,7 +1,7 @@
 # Senior Capstone
-Data Records were Obtained from [GMRepo](https://gmrepo.humangut.info/home) on 02/20/2023 <br/>
-Record IDs are shown in `ADHDrecords.txt` and ... 
-<br/>
-<br/>
-[SRA Toolkit 3.0.2](https://github.com/ncbi/sra-tools/wiki) was used to pull FASTAQ files from online repository
 
+<b>analyzeMicrobes</b> contains scripts and data used for determining significant microbes, as well as TrpNet prediction results
+
+<b>metagenomicAnalysis</b> contains scripts and data used for gut microbe analysis with QIIME 2
+
+<b>geneAnalysis</b> contains scripts and data to determine genes associated with ADHD that are involved in tryptophan metabolism
