@@ -1,0 +1,5 @@
+	phenotype	taxonomy rank level	NCBI taxon id 1	NCBI taxon id 2	pvalue Pearson	correlation coefficient Pearson	pvalue Spearman	correlation coefficient Spearman	nr. co-occurred samples	nr. samples of taxon1 only	nr. samples of taxon2 only	nr. samples of none	Odds ratio (OR) Fisher test	pvalue Fisher test	OR confidence lower	OR confidence upper	scientific name taxon1	scientific name taxon2
+13	D001289	genus	33042	216851	0.000163145	0.291990986	4.16e-07	0.385212318	89	1	72	15	18.3210122	0.000122513	2.695813895	786.1552496	Coprococcus	Faecalibacterium
+14	D001289	genus	33042	283168	0.003112859	-0.27457289	8.86e-08	-0.47569721	45	45	24	63	2.610289699	0.003276348	1.343094766	5.165748767	Coprococcus	Odoribacter
+23	D001289	genus	239759	239934	0.032171936	0.175614134	0.010752441	0.208412251	72	74	3	28	8.989473381	3.51e-05	2.602325468	48.29107913	Alistipes	Akkermansia
+26	D001289	genus	459786	1508657	0.001682093	0.251915013	0.000101523	0.309045722	121	15	17	24	11.15965688	2.3e-09	4.639576611	28.08512423	Oscillibacter	Ruminiclostridium
