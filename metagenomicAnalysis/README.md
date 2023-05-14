@@ -47,4 +47,6 @@ export PATH=$PATH:$PWD/sratoolkit.3.0.0-mac64/bin
 ```
 # Results
 QIIME 2 output for each indivdual group is avaliable at https://drive.google.com/file/d/15mMvKBp35ONuW3I5Ba-_gSo7R5sVjIfH/view?usp=sharing </br> </br>
-QIIME 2 output for all groups together is avaliable at 
+QIIME 2 output for all groups together is avaliable at https://drive.google.com/file/d/1TfIiLGR-4r0qDAWqMKof_hNztpAKpoSS/view?usp=sharing
+</br></br>
+Zipped files uploaded to Google Drive due to GitHub issues
