@@ -1,0 +1,102 @@
+#user selection logic: disease = 'D001289' AND ( host_age BETWEEN 20 AND 69 AND BMI BETWEEN 18.5 AND 30 AND nr_diseases > 1 AND QCStatus = 1 AND experiment_type = 'Amplicon' AND nr_reads_sequenced >= 1250 ) 
+#run count: 99
+Run ID	Project ID	Experiment type	Nr. reads sequenced	Country	Sex	Host age	BMI	Recent antibiotics use	Disease MESH ID	Disease name	QC status	Nr. associated phenotypes
+ERR1073812	PRJEB11419	Amplicon	21610	United States of America	Female	55	29.71		D001289	1	9
+ERR1074811	PRJEB11419	Amplicon	26844	United States of America	Male	45	21.77		D001289	1	2
+ERR1075893	PRJEB11419	Amplicon	31413	United States of America	Male	33	18.99		D001289	1	3
+ERR1089672	PRJEB11419	Amplicon	33410	United States of America	Female	30	24.69		D001289	1	8
+ERR1089724	PRJEB11419	Amplicon	27442	United States of America	Female	41	27.46		D001289	1	3
+ERR1089748	PRJEB11419	Amplicon	27979	United States of America	Female	36	24.33		D001289	1	4
+ERR1089825	PRJEB11419	Amplicon	36001	United States of America	Male	37	22.45		D001289	1	4
+ERR1089900	PRJEB11419	Amplicon	30096	United States of America	Female	30	24.69		D001289	1	8
+ERR1089906	PRJEB11419	Amplicon	34703	United States of America	Female	37	21.03		D001289	1	5
+ERR1089915	PRJEB11419	Amplicon	31312	United States of America	Male	54	23.49		D001289	1	5
+ERR1089928	PRJEB11419	Amplicon	29729	United States of America	Male	46	20.9		D001289	1	2
+ERR1089942	PRJEB11419	Amplicon	29507	United States of America	Male	23	21.52		D001289	1	5
+ERR1089967	PRJEB11419	Amplicon	28107	United States of America	Male	21	20.53		D001289	1	3
+ERR1089996	PRJEB11419	Amplicon	58789	United States of America	Male	36	22.05		D001289	1	3
+ERR1090068	PRJEB11419	Amplicon	31980	United States of America	Male	35	27.44		D001289	1	2
+ERR1090120	PRJEB11419	Amplicon	26061	United States of America	Male	33	27.61		D001289	1	2
+ERR1090508	PRJEB11419	Amplicon	31928	Canada	Female	57	22.68		D001289	1	6
+ERR1090580	PRJEB11419	Amplicon	23163	United States of America	Female	28	20.78		D001289	1	4
+ERR1090608	PRJEB11419	Amplicon	23740	United States of America	Female	58	20.37		D001289	1	4
+ERR1090696	PRJEB11419	Amplicon	28157	United States of America	Female	31	20.78		D001289	1	3
+ERR1090837	PRJEB11419	Amplicon	41404	United States of America	Male	56	29.01		D001289	1	3
+ERR1090904	PRJEB11419	Amplicon	92886	United States of America	Female	23	22.24		D001289	1	2
+ERR1090914	PRJEB11419	Amplicon	45557	United States of America	Male	62	25.38		D001289	1	5
+ERR1090957	PRJEB11419	Amplicon	38610	United States of America	Female	40	20.98		D001289	1	3
+ERR1090973	PRJEB11419	Amplicon	57292	United States of America	Male	63	27.88		D001289	1	2
+ERR1091116	PRJEB11419	Amplicon	58064	United Kingdom	Male	20	24.12		D001289	1	3
+ERR1091640	PRJEB11419	Amplicon	79375	United Kingdom	Female	68	22.96		D001289	1	3
+ERR1091671	PRJEB11419	Amplicon	62287	United States of America	Female	43	23.71		D001289	1	7
+ERR1091680	PRJEB11419	Amplicon	89306	United States of America	Male	31	23.63		D001289	1	2
+ERR1091758	PRJEB11419	Amplicon	50748	United States of America	Female	62	21.79		D001289	1	11
+ERR1091759	PRJEB11419	Amplicon	94152	United States of America	Male	63	27.98		D001289	1	6
+ERR1091810	PRJEB11419	Amplicon	38387	United States of America	Female	24	24.62		D001289	1	4
+ERR1160347	PRJEB11419	Amplicon	182950	United States of America	Female	28	20.6		D001289	1	4
+ERR1160447	PRJEB11419	Amplicon	53326	United States of America	Male	35	26.5		D001289	1	2
+ERR1160575	PRJEB11419	Amplicon	158726	United States of America	Female	31	20.8		D001289	1	4
+ERR1160597	PRJEB11419	Amplicon	163786	United States of America	Male	47	24.83		D001289	1	2
+ERR1160601	PRJEB11419	Amplicon	191404	United States of America	Male	41	23.06		D001289	1	9
+ERR1160605	PRJEB11419	Amplicon	147496	United States of America	Male	63	18.83		D001289	1	2
+ERR1160679	PRJEB11419	Amplicon	26298	United States of America	Female	65	26.94		D001289	1	7
+ERR1160748	PRJEB11419	Amplicon	193604	United States of America	Female	53	25.02		D001289	1	4
+ERR1249760	PRJEB11419	Amplicon	25395	United States of America	Male	54	28.35		D001289	1	5
+ERR1249798	PRJEB11419	Amplicon	37068	United States of America	Male	61	22.32		D001289	1	2
+ERR1249865	PRJEB11419	Amplicon	37866	United States of America	Female	29	18.54		D001289	1	6
+ERR1249876	PRJEB11419	Amplicon	29358	United States of America	Male	51	24.67		D001289	1	3
+ERR1249884	PRJEB11419	Amplicon	23882	United States of America	Female	20	22.81		D001289	1	5
+ERR1249895	PRJEB11419	Amplicon	33350	United States of America	Female	47	28.29		D001289	1	7
+ERR1249954	PRJEB11419	Amplicon	26997	United States of America	Male	30	23.06		D001289	1	2
+ERR1249968	PRJEB11419	Amplicon	26958	United States of America	Female	33	23.81		D001289	1	5
+ERR1249991	PRJEB11419	Amplicon	25775	United States of America	Female	20	19.14		D001289	1	2
+ERR1250036	PRJEB11419	Amplicon	38144	United States of America	Male	51	25.33		D001289	1	2
+ERR1250041	PRJEB11419	Amplicon	26908	United States of America	Male	22	24.41		D001289	1	3
+ERR1250085	PRJEB11419	Amplicon	25572	United States of America	Male	28	22.05		D001289	1	5
+ERR1250120	PRJEB11419	Amplicon	30574	United States of America		24	19.94		D001289	1	4
+ERR1250509	PRJEB11419	Amplicon	39198	United States of America	Male	37	26.96		D001289	1	2
+ERR1250635	PRJEB11419	Amplicon	31393	United States of America	Male	30	20.8		D001289	1	5
+ERR1389893	PRJEB11419	Amplicon	35033	United States of America	Female	31	19.26		D001289	1	3
+ERR1390011	PRJEB11419	Amplicon	30472	United States of America	Male	42	26.87		D001289	1	2
+ERR1417516	PRJEB11419	Amplicon	21664	Ireland	Male	34	23.51		D001289	1	2
+ERR1458875	PRJEB11419	Amplicon	25271	United States of America	Male	25	22.15		D001289	1	4
+ERR1458920	PRJEB11419	Amplicon	25235	Sweden	Male	34	24.59		D001289	1	3
+ERR1545862	PRJEB11419	Amplicon	46326	United States of America	Female	31	23.17		D001289	1	3
+ERR1545947	PRJEB11419	Amplicon	42473	United States of America	Female	25	28.32		D001289	1	2
+ERR1597152	PRJEB11419	Amplicon	42476	United States of America	Male	23	20.66		D001289	1	3
+ERR1678455	PRJEB11419	Amplicon	30298	United States of America	Male	56	26.45		D001289	1	2
+ERR1678477	PRJEB11419	Amplicon	31607	United States of America	Male	64	29.41		D001289	1	2
+ERR1843557	PRJEB11419	Amplicon	23534	United States of America	Female	28	27.34		D001289	1	2
+ERR1844565	PRJEB11419	Amplicon	23809	United States of America	Female	28	27.34		D001289	1	2
+ERR1844595	PRJEB11419	Amplicon	47401	United States of America	Male	61	28.92		D001289	1	3
+ERR1844647	PRJEB11419	Amplicon	51613	United States of America	Female	42	20.6		D001289	1	3
+ERR1845237	PRJEB11419	Amplicon	41898	United States of America	Male	37	22.86		D001289	1	2
+ERR1845369	PRJEB11419	Amplicon	43761	United States of America	Male	37	20.31		D001289	1	2
+ERR1845371	PRJEB11419	Amplicon	38123	United States of America	Male	37	20.31		D001289	1	2
+ERR1845984	PRJEB11419	Amplicon	36621	United States of America	Male	35	25.09		D001289	1	2
+ERR1852446	PRJEB11419	Amplicon	22957	United States of America	Male	37	22.86		D001289	1	2
+ERR1854706	PRJEB11419	Amplicon	39363	United States of America	Male	44	22.96		D001289	1	2
+ERR2032815	PRJEB11419	Amplicon	32714	United States of America	Female	61	21.03		D001289	1	2
+ERR2032946	PRJEB11419	Amplicon	23154	United States of America	Male	33	24.39		D001289	1	5
+ERR2033467	PRJEB11419	Amplicon	30274	United States of America	Male	24	18.99		D001289	1	2
+ERR2057139	PRJEB11419	Amplicon	27294	United States of America	Female	31	24.13		D001289	1	3
+ERR2057141	PRJEB11419	Amplicon	33838	United States of America	Male	34	25.09		D001289	1	4
+ERR2057207	PRJEB11419	Amplicon	29190	United States of America	Female	32	22.15		D001289	1	5
+ERR2057214	PRJEB11419	Amplicon	21704	United States of America	Female	33	29.76		D001289	1	2
+ERR2091887	PRJEB11419	Amplicon	49321	United States of America	Female	36	28.52		D001289	1	2
+ERR2091950	PRJEB11419	Amplicon	32642	United Kingdom	Female	42	21.1		D001289	1	4
+ERR2092064	PRJEB11419	Amplicon	32627	Canada	Male	27	24.38		D001289	1	2
+ERR2092087	PRJEB11419	Amplicon	28667	United States of America	Male	45	27.02		D001289	1	2
+ERR2092196	PRJEB11419	Amplicon	22708	United States of America	Male	31	19.8		D001289	1	3
+ERR2092197	PRJEB11419	Amplicon	30872	United States of America	Male	31	19.8		D001289	1	3
+ERR2092228	PRJEB11419	Amplicon	45603	United States of America	Male	24	29.84		D001289	1	2
+ERR2092297	PRJEB11419	Amplicon	25732	United States of America	Female	45	28.79		D001289	1	3
+ERR2092298	PRJEB11419	Amplicon	27812	United States of America	Female	45	28.79		D001289	1	3
+ERR2092436	PRJEB11419	Amplicon	26300	United States of America	Male	30	24.37		D001289	1	3
+ERR2092437	PRJEB11419	Amplicon	24716	United States of America	Male	30	24.37		D001289	1	3
+ERR2092438	PRJEB11419	Amplicon	27741	United States of America	Male	30	24.37		D001289	1	3
+ERR2092446	PRJEB11419	Amplicon	23475	United States of America	Female	46	22.6		D001289	1	2
+ERR2092562	PRJEB11419	Amplicon	29013	United States of America	Male	37	20.31		D001289	1	2
+ERR2092563	PRJEB11419	Amplicon	33414	United States of America	Male	37	20.31		D001289	1	2
+ERR2092564	PRJEB11419	Amplicon	40006	United States of America	Male	37	29.43		D001289	1	2
+ERR2313970	PRJEB11419	Amplicon	41966	United States of America	Female	31	23.17		D001289	1	3
