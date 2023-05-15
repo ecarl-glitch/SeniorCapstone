@@ -25,18 +25,30 @@ disGenesList = (disGenes_DF["Gene"].tolist())
 # csv file contains pathway data downloaded from KEGG for pathway hsa00380
 # 00380 is tryptophan metabolism
 # (retrieved April 23rd)
-KEGG_Pathway = "input/KEGGgenes.tsv"
+KEGG_Pathway = "input/KEGG_ADHD_genes.tsv"
 KEGG_Pathway_DF = pd.read_csv(KEGG_Pathway, sep='\t', comment='#')
-
+print(KEGG_Pathway_DF['KEGG_NODE_TYPE'])
 # selects for gene entries in pathway KEGG_Pathway_DF file
-KEGG_Pathway_DF = KEGG_Pathway_DF[KEGG_Pathway_DF['geneName'] == 'gene']
+KEGG_Pathway_DF_Filtered = KEGG_Pathway_DF[KEGG_Pathway_DF['KEGG_NODE_TYPE'] == 'gene']
+print(KEGG_Pathway_DF_Filtered)
 # creates a list of gene names of genes in the pathway
-KEGG_PathwayList = (KEGG_Pathway_DF['geneName'].tolist())
+KEGG_PathwayList = (KEGG_Pathway_DF_Filtered['KEGG_NODE_LABEL_LIST_FIRST'].tolist())
+
+print(KEGG_PathwayList)
 
 # List of genes in datasets that are in the KEGG pathway hsa00380
 sharedDis = set(disGenesList) & set(KEGG_PathwayList)
 print(sharedDis)
 disGenes_DF = disGenes_DF.loc[disGenes_DF['Gene'].isin(sharedDis)]
+# ---
 
-KEGG_Pathway_DF = KEGG_Pathway_DF.loc[KEGG_Pathway_DF['KEGG_NODE_LABEL_LIST_FIRST'].isin(sharedDis)]
-KEGG_Pathway_DF.to_csv("output/KEGG_ADHD_genes.tsv", sep='\t', index=False)
+#KEGG_Pathway_DF_Compounds = KEGG_Pathway_DF[KEGG_Pathway_DF['KEGG_NODE_TYPE'] == 'compound'].isin(
+KEGG_Pathway_DF_Filtered = KEGG_Pathway_DF_Filtered.loc[KEGG_Pathway_DF_Filtered['KEGG_NODE_LABEL_LIST_FIRST'].isin(sharedDis)]
+KEGG_PathwayRxnList = (KEGG_Pathway_DF_Filtered['KEGG_NODE_REACTIONID'].tolist())
+
+print(KEGG_PathwayRxnList)
+KEGG_Pathway_DF_Filtered.to_csv("output/KEGG_ADHD_genes.tsv", sep='\t', index=False)
+
+
+
+
