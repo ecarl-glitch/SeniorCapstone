@@ -19,3 +19,6 @@
 4.  <b>```analysisKEGG.py```</b> is executed to find overlap between KEGG genes and DisGeNet genes </br>
   Creates:
   * output/KEGG_ADHD_genes.tsv
+  * metaboliteKEGG.csv
+5. TrpNet is used to get microbe predictions using  <b>```metaboliteKEGG.csv```</b> metabolites: TrpNetMicrobesFromMetabolites.csv, and metabolite predictions using  <b>```genusPassed(0.05).tsv```</b> (see analyzeMicrobes)
+6. <b>```PredExtractedOverlap.py```</b> finds overlap between predictions and extracted microbes/metabolites
