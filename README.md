@@ -1,4 +1,5 @@
 # Senior Capstone
+This repository contains all data and scripts used to analyze the gut microbiome's relationship with tryptophan metabolism in ADHD. The purpose of this analysis was to determine which microbes and metabolites may be abnormal in someone with ADHD, as well as the genes of tryptophan metabolism that may be mutated in ADHD (disease-state). All data used in this project is publically avaliable. Code and methodology can be extended to other analyses of disease-state vs health phenotype for other conditions where there is abnormal tryptophan metabolism. 
 
 <b>```analyzeMicrobes```</b> contains scripts and data used for determining significant microbes, as well as TrpNet prediction results
 
