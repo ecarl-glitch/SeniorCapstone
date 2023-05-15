@@ -1,0 +1,1029 @@
+Disease	Disease_id	Gene	Gene_id	UniProt	Gene_Full_Name	Protein_Class	N_diseases_g	DSI_g	DPI_g	pLI	Score_gda	EL_gda	EI_gda	N_PMIDs	N_SNPs_gda	First_Ref	Last_Ref
+Attention Deficit Disorder	C0041671	SLC6A3	6531	Q01959	solute carrier family 6 member 3	Transporter	373	0.453	0.885	0.99758	0.54		1.0	18	0	1995.0	2017.0
+Attention Deficit Disorder	C0041671	ADGRL3	23284	Q9HAR2	adhesion G protein-coupled receptor L3	G-protein coupled receptor	25	0.729	0.385	1.0	0.51		1.0	4	1	2012.0	2016.0
+Attention Deficit Disorder	C0041671	CHRNB2	1141	P17787	cholinergic receptor nicotinic beta 2 subunit	Ion channel	96	0.617	0.308	0.00072964	0.5		1.0	4	0	2003.0	2012.0
+Attention Deficit Disorder	C0041671	DRD4	1815	P21917	dopamine receptor D4	G-protein coupled receptor	189	0.517	0.577	9.3362e-09	0.5		1.0	5	0	2004.0	2018.0
+Attention Deficit Disorder	C0041671	GIT1	28964	Q9Y2X7	GIT ArfGAP 1		56	0.647	0.538	0.99978	0.5		1.0	1	0	2011.0	2011.0
+Attention Deficit Disorder	C0041671	TACR1	6869	P25103	tachykinin receptor 1	G-protein coupled receptor	217	0.502	0.885	0.00038437	0.5		1.0	3	0	1998.0	2010.0
+Attention deficit hyperactivity disorder	C1263846	COMT	1312	P21964	catechol-O-methyltransferase	Enzyme	622	0.4	0.923	1.1377e-06	0.5		0.873	55	6	1996.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	DRD4	1815	P21917	dopamine receptor D4	G-protein coupled receptor	189	0.517	0.577	9.3362e-09	0.5		0.921	165	5	1996.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	DRD5	1816	P21918	dopamine receptor D5	G-protein coupled receptor	73	0.603	0.423	1.348e-16	0.5		0.9	20	2	2000.0	2016.0
+Attention deficit hyperactivity disorder	C1263846	STS	412	P08842	steroid sulfatase	Enzyme	382	0.431	0.846	0.80886	0.46		1.0	6	3	2008.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	GRM5	2915	P41594	glutamate metabotropic receptor 5	G-protein coupled receptor	189	0.525	0.846	0.99872	0.45		1.0	6	1	2010.0	2015.0
+Attention deficit hyperactivity disorder	C1263846	FGD1	2245	P98174	FYVE, RhoGEF and PH domain containing 1	Enzyme modulator	131	0.573	0.731	0.9997	0.42		1.0	2	1	2005.0	2014.0
+Attention deficit hyperactivity disorder	C1263846	AS3MT	57412	Q9HBK9	arsenite methyltransferase	Enzyme	56	0.638	0.538	7.9768e-11	0.41		1.0	2	1	2013.0	2015.0
+Attention deficit hyperactivity disorder	C1263846	TPH2	121278	Q8IWU9	tryptophan hydroxylase 2		137	0.546	0.654	2.5364e-07	0.4		0.933	15	4	2005.0	2020.0
+Attention deficit hyperactivity disorder	C1263846	DRD2	1813	P14416	dopamine receptor D2	G-protein coupled receptor	437	0.436	0.846	0.74709	0.4		1.0	27	2	1999.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	CIC	23152	Q96RK0	capicua transcriptional repressor		141	0.523	0.692	0.99999	0.4		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	ADGRL3	23284	Q9HAR2	adhesion G protein-coupled receptor L3	G-protein coupled receptor	25	0.729	0.385	1.0	0.4		1.0	22	8	2010.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	SLC6A3	6531	Q01959	solute carrier family 6 member 3	Transporter	373	0.453	0.885	0.99758	0.4		0.95	201	14	1995.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	MED13	9969	Q9UHV7	mediator complex subunit 13		29	0.711	0.538	1.0	0.4	moderate	1.0	1	1	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	CHRNA4	1137	P43681	cholinergic receptor nicotinic alpha 4 subunit	Ion channel	248	0.492	0.808	8.5474e-05	0.37		1.0	8	0	2003.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	GRM7	2917	Q14831	glutamate metabotropic receptor 7	G-protein coupled receptor	77	0.628	0.538	0.99896	0.36		1.0	7	3	2011.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	CNR1	1268	P21554	cannabinoid receptor 1	G-protein coupled receptor	393	0.446	0.808	0.50652	0.33		1.0	4	0	2008.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	GIT1	28964	Q9Y2X7	GIT ArfGAP 1		56	0.647	0.538	0.99978	0.33		1.0	3	1	2011.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	TACR1	6869	P25103	tachykinin receptor 1	G-protein coupled receptor	217	0.502	0.885	0.00038437	0.33		1.0	3	2	2010.0	2016.0
+Attention deficit hyperactivity disorder	C1263846	GRM8	2918	O00222	glutamate metabotropic receptor 8	G-protein coupled receptor	56	0.636	0.577	4.5334e-07	0.32		1.0	3	0	2011.0	2015.0
+Attention Deficit Disorder	C0041671	DRD2	1813	P14416	dopamine receptor D2	G-protein coupled receptor	437	0.436	0.846	0.74709	0.31		1.0	2	0	2007.0	2013.0
+Attention Deficit Disorder	C0041671	GRM7	2917	Q14831	glutamate metabotropic receptor 7	G-protein coupled receptor	77	0.628	0.538	0.99896	0.31		1.0	2	3	2011.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	CALY	50632	Q9NYX4	calcyon neuron specific vesicular protein		13	0.821	0.192	0.038696	0.31		1.0	2	0	2005.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	PTPRD	5789	P23468	protein tyrosine phosphatase receptor type D	Enzyme	93	0.584	0.731	1.0	0.31		1.0	1	0	2010.0	2010.0
+Attention Deficit Disorder	C0041671	CHRNA4	1137	P43681	cholinergic receptor nicotinic alpha 4 subunit	Ion channel	248	0.492	0.808	8.5474e-05	0.3		1.0	1	0	2012.0	2012.0
+Attention Deficit Disorder	C0041671	TPH2	121278	Q8IWU9	tryptophan hydroxylase 2		137	0.546	0.654	2.5364e-07	0.3			0	0		
+Attention Deficit Disorder	C0041671	CNR1	1268	P21554	cannabinoid receptor 1	G-protein coupled receptor	393	0.446	0.808	0.50652	0.3		1.0	1	0	2011.0	2011.0
+Attention Deficit Disorder	C0041671	COMT	1312	P21964	catechol-O-methyltransferase	Enzyme	622	0.4	0.923	1.1377e-06	0.3		1.0	1	0	1999.0	1999.0
+Attention Deficit Disorder	C0041671	DRD5	1816	P21918	dopamine receptor D5	G-protein coupled receptor	73	0.603	0.423	1.348e-16	0.3		1.0	2	0	2004.0	2004.0
+Attention Deficit Disorder	C0041671	FGD1	2245	P98174	FYVE, RhoGEF and PH domain containing 1	Enzyme modulator	131	0.573	0.731	0.9997	0.3		1.0	1	0	2005.0	2005.0
+Attention Deficit Disorder	C0041671	CIC	23152	Q96RK0	capicua transcriptional repressor		141	0.523	0.692	0.99999	0.3		1.0	1	0	2017.0	2017.0
+Attention Deficit Disorder	C0041671	GRM1	2911	Q13255	glutamate metabotropic receptor 1	G-protein coupled receptor	172	0.528	0.808	0.14279	0.3		1.0	1	0	2011.0	2011.0
+Attention Deficit Disorder	C0041671	GRM5	2915	P41594	glutamate metabotropic receptor 5	G-protein coupled receptor	189	0.525	0.846	0.99872	0.3		1.0	2	0	2010.0	2011.0
+Attention Deficit Disorder	C0041671	GRM8	2918	O00222	glutamate metabotropic receptor 8	G-protein coupled receptor	56	0.636	0.577	4.5334e-07	0.3		1.0	1	0	2011.0	2011.0
+Attention Deficit Disorder	C0041671	STS	412	P08842	steroid sulfatase	Enzyme	382	0.431	0.846	0.80886	0.3		1.0	1	0	2008.0	2008.0
+Attention Deficit Disorder	C0041671	CALY	50632	Q9NYX4	calcyon neuron specific vesicular protein		13	0.821	0.192	0.038696	0.3		1.0	1	0	2019.0	2019.0
+Attention Deficit Disorder	C0041671	AS3MT	57412	Q9HBK9	arsenite methyltransferase	Enzyme	56	0.638	0.538	7.9768e-11	0.3		1.0	1	0	2015.0	2015.0
+Attention Deficit Disorder	C0041671	PTPRD	5789	P23468	protein tyrosine phosphatase receptor type D	Enzyme	93	0.584	0.731	1.0	0.3		1.0	1	0	2010.0	2010.0
+Attention deficit hyperactivity disorder	C1263846	CHRNB2	1141	P17787	cholinergic receptor nicotinic beta 2 subunit	Ion channel	96	0.617	0.308	0.00072964	0.3		1.0	1	0	2012.0	2012.0
+Attention deficit hyperactivity disorder	C1263846	ZNF292	23036	O60281	zinc finger protein 292	Enzyme	53	0.695	0.423	1.0	0.3	moderate	1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	GRM1	2911	Q13255	glutamate metabotropic receptor 1	G-protein coupled receptor	172	0.528	0.808	0.14279	0.3		1.0	1	0	2011.0	2011.0
+Attention Deficit Disorder	C0041671	PTCHD1	139411	Q96NR3	patched domain containing 1	Receptor	62	0.678	0.385	0.98224	0.21		1.0	1	0	2016.0	2016.0
+Attention Deficit Disorder	C0041671	MECP2	4204	P51608	methyl-CpG binding protein 2	Epigenetic regulator	664	0.414	0.846	0.89382	0.21		1.0	2	0	2008.0	2009.0
+Attention Deficit Disorder	C0041671	BDNF	627	P23560	brain derived neurotrophic factor	Signaling	992	0.345	0.923	0.65626	0.21		1.0	2	0	2011.0	2014.0
+Attention Deficit Disorder	C0041671	HDAC5	10014	Q9UQL6	histone deacetylase 5	Epigenetic regulator	114	0.552	0.769	1.0	0.2		1.0	1	0	2008.0	2008.0
+Attention Deficit Disorder	C0041671	CREBBP	1387	Q92793	CREB binding protein		438	0.428	0.808	1.0	0.2		1.0	1	0	2008.0	2008.0
+Attention Deficit Disorder	C0041671	CSNK1D	1453	P48730	casein kinase 1 delta	Kinase	49	0.65	0.615	0.99577	0.2			0	0		
+Attention Deficit Disorder	C0041671	BRINP1	1620	O60477	BMP/retinoic acid inducible neural specific 1		64	0.615	0.615	0.99251	0.2		1.0	1	0	2016.0	2016.0
+Attention Deficit Disorder	C0041671	DDC	1644	P20711	dopa decarboxylase		164	0.535	0.769	3.7519e-08	0.2		1.0	1	0	2008.0	2008.0
+Attention Deficit Disorder	C0041671	GRIN2B	2904	Q13224	glutamate ionotropic receptor NMDA type subunit 2B	Ion channel	249	0.51	0.692	1.0	0.2		1.0	2	0	2009.0	2012.0
+Attention Deficit Disorder	C0041671	LGALS3	3958	P17931	galectin 3	Signaling	557	0.392	0.846	2.3207e-05	0.2		1.0	1	0	2010.0	2010.0
+Attention Deficit Disorder	C0041671	NTRK2	4915	Q16620	neurotrophic receptor tyrosine kinase 2	Kinase	284	0.479	0.808	1.0	0.2		1.0	1	0	2014.0	2014.0
+Attention Deficit Disorder	C0041671	PER1	5187	O15534	period circadian regulator 1	Transcription factor	111	0.556	0.731	0.00029308	0.2		1.0	1	0	2015.0	2015.0
+Attention Deficit Disorder	C0041671	SNAP25	6616	P60880	synaptosome associated protein 25	Transporter	283	0.489	0.808	0.98653	0.2		1.0	1	0	2016.0	2016.0
+Attention Deficit Disorder	C0041671	THRB	7068	P10828	thyroid hormone receptor beta	Nuclear receptor	142	0.554	0.769	0.99676	0.2		1.0	1	0	2005.0	2005.0
+Attention Deficit Disorder	C0041671	THRSP	7069	Q92748	thyroid hormone responsive		33	0.695	0.462	0.0029238	0.2			0	0		
+Attention Deficit Disorder	C0041671	VEGFA	7422	P15692	vascular endothelial growth factor A	Signaling	1899	0.266	0.923	2.4085e-05	0.2		1.0	1	0	2004.0	2004.0
+Attention Deficit Disorder	C0041671	CDK5R1	8851	Q15078	cyclin dependent kinase 5 regulatory subunit 1	Enzyme modulator	153	0.529	0.808	0.9149	0.2		1.0	3	0	1997.0	2012.0
+Attention deficit hyperactivity disorder	C1263846	DHDDS	79947	Q86SQ9	dehydrodolichyl diphosphate synthase subunit	Enzyme	308	0.468	0.885	0.24533	0.15		1.0	5	0	2012.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	CHRNA7	1139	P36544;Q494W8	cholinergic receptor nicotinic alpha 7 subunit	Ion channel	172	0.532	0.654	0.00041549	0.14		1.0	4	0	2001.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	GRIN2A	2903	Q12879	glutamate ionotropic receptor NMDA type subunit 2A	Ion channel	212	0.522	0.808	0.99998	0.14		1.0	4	1	2004.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	ASTN2	23245	O75129	astrotactin 2		51	0.666	0.462	0.99971	0.13		0.75	4	2	2008.0	2016.0
+Attention deficit hyperactivity disorder	C1263846	MECP2	4204	P51608	methyl-CpG binding protein 2	Epigenetic regulator	664	0.414	0.846	0.89382	0.13		1.0	3	1	2009.0	2020.0
+Attention deficit hyperactivity disorder	C1263846	PTCHD1	139411	Q96NR3	patched domain containing 1	Receptor	62	0.678	0.385	0.98224	0.12		1.0	2	0	2016.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	GJB2	2706	P29033	gap junction protein beta 2	Cell-cell junction	392	0.441	0.846	6.562e-16	0.12		1.0	2	1	2006.0	2006.0
+Attention deficit hyperactivity disorder	C1263846	PTEN	5728	P60484	phosphatase and tensin homolog	Enzyme	1349	0.305	0.923	0.25651	0.12		1.0	2	8	2009.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	ST3GAL3	6487	Q11203	ST3 beta-galactoside alpha-2,3-sialyltransferase 3		95	0.606	0.654	0.0025598	0.12		1.0	3	2	2017.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	UPF3B	65109	Q9BZI7	UPF3B regulator of nonsense mediated mRNA decay		99	0.619	0.615	0.98497	0.12		1.0	2	0	2013.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	SYP	6855	P08247	synaptophysin	Transporter	243	0.481	0.808	0.91549	0.12		1.0	2	0	2013.0	2015.0
+Attention deficit hyperactivity disorder	C1263846	CACNA1C	775	Q13936	calcium voltage-gated channel subunit alpha1 C	Ion channel	225	0.51	0.846	1.0	0.12		1.0	3	1	2011.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	FOXP2	93986	O15409	forkhead box P2		165	0.545	0.808	0.99994	0.12		1.0	4	5	2012.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	CPLX2	10814	Q6PUV4	complexin 2		22	0.736	0.231	0.52601	0.11		1.0	2	1	2011.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	SLITRK1	114798	Q96PX8	SLIT and NTRK like family member 1		26	0.736	0.308	0.95737	0.11		1.0	1	0	2009.0	2009.0
+Attention deficit hyperactivity disorder	C1263846	DMD	1756	P11532	dystrophin		484	0.423	0.923	1.0	0.11		1.0	1	0	2012.0	2012.0
+Attention deficit hyperactivity disorder	C1263846	IQSEC2	23096	Q5JU85	IQ motif and Sec7 domain ArfGEF 2		155	0.573	0.577	0.99998	0.11		1.0	1	0	2016.0	2016.0
+Attention deficit hyperactivity disorder	C1263846	FMR1	2332	Q06787	FMRP translational regulator 1	Nucleic acid binding	346	0.473	0.769	0.64718	0.11		1.0	1	0	2012.0	2012.0
+Attention deficit hyperactivity disorder	C1263846	GABRB3	2562	P28472	gamma-aminobutyric acid type A receptor subunit beta3	Ion channel	139	0.546	0.615	0.95138	0.11		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	AUTS2	26053	Q8WXX7	activator of transcription and developmental regulator AUTS2		149	0.569	0.846	0.99934	0.11		1.0	1	0	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	IFNG	3458	P01579	interferon gamma		1519	0.288	0.962	0.47156	0.11		1.0	1	0	2016.0	2016.0
+Attention deficit hyperactivity disorder	C1263846	FAS	355	P25445	Fas cell surface death receptor		754	0.372	0.923	0.8117	0.11		1.0	1	1	2012.0	2012.0
+Attention deficit hyperactivity disorder	C1263846	ITIH3	3699	Q06033	inter-alpha-trypsin inhibitor heavy chain 3	Enzyme modulator	23	0.769	0.231	1.4628e-13	0.11		1.0	2	1	2013.0	2015.0
+Attention deficit hyperactivity disorder	C1263846	NTRK2	4915	Q16620	neurotrophic receptor tyrosine kinase 2	Kinase	284	0.479	0.808	1.0	0.11		1.0	1	0	2008.0	2008.0
+Attention deficit hyperactivity disorder	C1263846	PAH	5053	P00439	phenylalanine hydroxylase		219	0.516	0.769	6.4046e-23	0.11		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	PIK3CA	5290	P42336	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha	Kinase	1511	0.292	0.923	1.0	0.11		1.0	1	0	2009.0	2009.0
+Attention deficit hyperactivity disorder	C1263846	PRKG1	5592	Q13976	protein kinase cGMP-dependent 1	Kinase	114	0.603	0.769	0.99938	0.11		1.0	2	3	2002.0	2010.0
+Attention deficit hyperactivity disorder	C1263846	PTPRG	5793	P23470	protein tyrosine phosphatase receptor type G	Enzyme	70	0.619	0.731	5.0736e-06	0.11		1.0	2	1	2016.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	SLC6A8	6535	P48029	solute carrier family 6 member 8	Transporter	274	0.476	0.846	0.99778	0.11		1.0	1	0	2010.0	2010.0
+Attention deficit hyperactivity disorder	C1263846	THRB	7068	P10828	thyroid hormone receptor beta	Nuclear receptor	142	0.554	0.769	0.99676	0.11		1.0	1	1	1994.0	1994.0
+Attention deficit hyperactivity disorder	C1263846	SNORD116-1	100033413		small nucleolar RNA, C/D box 116-1		63	0.682	0.423		0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	TAF9BP2	100130319		TATA-box binding protein associated factor 9b pseudogene 2		4	0.861	0.115		0.1		1.0	1	1	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	KDM4A-AS1	100132774		KDM4A antisense RNA 1		2	0.931	0.038		0.1		1.0	2	2	2018.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	GNE	10020	Q9Y223	glucosamine (UDP-N-acetyl)-2-epimerase/N-acetylmannosamine kinase	Enzyme	118	0.61	0.692	2.4844e-16	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	BORCS7-ASMT	100528007		BORCS7-ASMT readthrough (NMD candidate)		20	0.805	0.154		0.1		1.0	1	1	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	P2RX5-TAX1BP3	100533970		P2RX5-TAX1BP3 readthrough (NMD candidate)		91	0.588	0.769		0.1			0	1		
+Attention deficit hyperactivity disorder	C1263846	GPC6	10082	Q9Y625	glypican 6		86	0.626	0.654	0.14181	0.1		1.0	1	1	2008.0	2008.0
+Attention deficit hyperactivity disorder	C1263846	OBI1-AS1	100874222		OBI1 antisense RNA 1		14	0.792	0.115		0.1		1.0	1	1	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	MKRN3-AS1	10108		MKRN3 antisense RNA 1		63	0.682	0.423		0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	LINC01572	101927957		long intergenic non-protein coding RNA 1572		5	1.0	0.038		0.1		1.0	1	1	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	DEAF1	10522	O75398	DEAF1 transcription factor		156	0.575	0.615	0.00034113	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	NOP56	10528	O00567	NOP56 ribonucleoprotein	Nucleic acid binding	64	0.663	0.538	0.62098	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	GNB5	10681	O14775	G protein subunit beta 5	Enzyme	29	0.736	0.308	6.3614e-08	0.1			0	1		
+Attention deficit hyperactivity disorder	C1263846	RAI1	10743	Q7Z5J4	retinoic acid induced 1	Transcription factor	205	0.545	0.731	1.0	0.1			0	1		
+Attention deficit hyperactivity disorder	C1263846	ADCY2	108	Q08462	adenylate cyclase 2		30	0.695	0.308	0.99898	0.1		1.0	1	1	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	CPLX1	10815	O14810	complexin 1		138	0.576	0.654	0.82499	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	MAGED2	10916	Q9UNF1	MAGE family member D2	Cell adhesion	43	0.691	0.462	0.99538	0.1			0	1		
+Attention deficit hyperactivity disorder	C1263846	TLK2	11011	Q86UE8	tousled like kinase 2	Kinase	71	0.631	0.538	1.0	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	MID2	11043	Q9UJV3	midline 2		48	0.695	0.5	0.1755	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	CHD2	1106	O14647	chromodomain helicase DNA binding protein 2		99	0.585	0.577	1.0	0.1			0	1		
+Attention deficit hyperactivity disorder	C1263846	IL1RAPL1	11141	Q9NZN1	interleukin 1 receptor accessory protein like 1	Receptor	103	0.617	0.692	0.99886	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	C12orf57	113246	Q99622	chromosome 12 open reading frame 57		62	0.641	0.5	5.2408e-05	0.1			0	1		
+Attention deficit hyperactivity disorder	C1263846	CSMD2	114784	Q7Z408	CUB and Sushi multiple domains 2		27	0.695	0.269		0.1		1.0	1	1	2008.0	2008.0
+Attention deficit hyperactivity disorder	C1263846	NUS1	116150	Q96E22	NUS1 dehydrodolichyl diphosphate synthase subunit		94	0.619	0.615	0.98117	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	RAB39B	116442	Q96DA2	RAB39B, member RAS oncogene family		90	0.619	0.615	0.82529	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	CLCN4	1183	P51793	chloride voltage-gated channel 4	Ion channel	114	0.587	0.654	0.99893	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	CLTC	1213	Q00610	clathrin heavy chain	Transporter	141	0.558	0.769	1.0	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	MTFMT	123263	Q96DP5	mitochondrial methionyl-tRNA formyltransferase	Enzyme	101	0.595	0.808	1.4994e-07	0.1		1.0	2	1	2011.0	2014.0
+Attention deficit hyperactivity disorder	C1263846	COL2A1	1280	P02458	collagen type II alpha 1 chain		496	0.444	0.846	1.0	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	COL11A2	1302	P13942	collagen type XI alpha 2 chain		399	0.435	0.846	0.70197	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	OSR1	130497	Q8TAX0	odd-skipped related transcription factor 1	Transcription factor	77	0.603	0.615	0.86296	0.1		0.846	13	0	1998.0	2020.0
+Attention deficit hyperactivity disorder	C1263846	IRAK1BP1	134728	Q5VVH5	interleukin 1 receptor associated kinase 1 binding protein 1		24	0.78	0.346	1.449e-06	0.1			0	3		
+Attention deficit hyperactivity disorder	C1263846	MUCL3	135656	Q3MIW9	mucin like 3		32	0.691	0.731	1.2265e-05	0.1		1.0	1	1	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	CREBBP	1387	Q92793	CREB binding protein		438	0.428	0.808	1.0	0.1			0	1		
+Attention deficit hyperactivity disorder	C1263846	CRKL	1399	P46109	CRK like proto-oncogene, adaptor protein		140	0.553	0.769	0.44604	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	PIWIL4	143689	Q7Z3Z4	piwi like RNA-mediated gene silencing 4		83	0.579	0.692	1.8323e-06	0.1		1.0	1	1	2008.0	2008.0
+Attention deficit hyperactivity disorder	C1263846	PWAR1	145624		Prader Willi/Angelman region RNA 1		246	0.49	0.769		0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	CSNK2A1	1457	P68400	casein kinase 2 alpha 1	Kinase	87	0.597	0.731	0.98711	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	FBXL16	146330	Q8N461	F-box and leucine rich repeat protein 16		3	1.0	0.038	0.96981	0.1		1.0	1	1	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	ADRA2A	150	P08913	adrenoceptor alpha 2A	G-protein coupled receptor	102	0.578	0.615	0.00081816	0.1		0.913	23	1	1999.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	VPS13B	157680	Q7Z7G8	vacuolar protein sorting 13 homolog B		158	0.579	0.769	2.5029e-45	0.1			0	1		
+Attention deficit hyperactivity disorder	C1263846	AK8	158067	Q96MA6	adenylate kinase 8	Kinase	3	0.931	0.077	2.0053e-11	0.1		1.0	1	1	2008.0	2008.0
+Attention deficit hyperactivity disorder	C1263846	AARS1	16	P49588	alanyl-tRNA synthetase 1	Nucleic acid binding	84	0.647	0.462	1.8242e-08	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	SPRED1	161742	Q7Z699	sprouty related EVH1 domain containing 1	Receptor	58	0.644	0.577	0.97246	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	DBH	1621	P09172	dopamine beta-hydroxylase		202	0.511	0.846	3.3352e-10	0.1		0.964	28	5	1999.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	DDX3X	1654	O00571	DEAD-box helicase 3 X-linked		180	0.537	0.769	0.99986	0.1			0	1		
+Attention deficit hyperactivity disorder	C1263846	TIMM8A	1678	O60220	translocase of inner mitochondrial membrane 8A		200	0.51	0.846	0.65195	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	ARX	170302	Q96QS3	aristaless related homeobox		249	0.516	0.654	0.90814	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	DHCR7	1717	Q9UBM7	7-dehydrocholesterol reductase	Enzyme	266	0.5	0.846	3.949e-13	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	DLG3	1741	Q92796	discs large MAGUK scaffold protein 3		144	0.544	0.615	0.99999	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	DNM1	1759	Q05193	dynamin 1	Enzyme modulator	114	0.595	0.692	0.99917	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	DYNC1H1	1778	Q14204	dynein cytoplasmic 1 heavy chain 1	Enzyme	174	0.547	0.769	1.0	0.1			0	1		
+Attention deficit hyperactivity disorder	C1263846	DYNC1I2	1781	Q13409	dynein cytoplasmic 1 intermediate chain 2	Cellular structure	34	0.76	0.385	1.0648e-08	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	DPP6	1804	P42658	dipeptidyl peptidase like 6	Enzyme	71	0.603	0.692	0.33997	0.1			0	4		
+Attention deficit hyperactivity disorder	C1263846	AGTR2	186	P50052	angiotensin II receptor type 2	G-protein coupled receptor	229	0.496	0.808	0.0082345	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	EEF1A2	1917	Q05639	eukaryotic translation elongation factor 1 alpha 2	Enzyme	166	0.554	0.808	0.99558	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	ARID2	196528	Q68CP9	AT-rich interaction domain 2		167	0.543	0.808	1.0	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	CFAP221	200373	Q4G0U5	cilia and flagella associated protein 221		7	0.805	0.231	8.7186e-17	0.1		1.0	1	1	2008.0	2008.0
+Attention deficit hyperactivity disorder	C1263846	ELN	2006	P15502	elastin		545	0.415	0.885	2.1429e-14	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	CEP112	201134	Q8N8E3	centrosomal protein 112		10	0.931	0.077	7.0861e-39	0.1		1.0	1	1	2010.0	2010.0
+Attention deficit hyperactivity disorder	C1263846	EMP2	2013	P54851	epithelial membrane protein 2	Cellular structure	46	0.65	0.692	2.3873e-07	0.1		1.0	1	1	2010.0	2010.0
+Attention deficit hyperactivity disorder	C1263846	ABCD1	215	P33897	ATP binding cassette subfamily D member 1	Transporter	154	0.563	0.731	0.99896	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	ACSL4	2182	O60488	acyl-CoA synthetase long chain family member 4	Enzyme	136	0.561	0.769	0.98103	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	JMJD1C	221037	Q15652	jumonji domain containing 1C		214	0.517	0.769	1.0	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	FGF12	2257	P61328	fibroblast growth factor 12	Signaling	95	0.619	0.615	0.62294	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	ITGA11	22801	Q9UKX5	integrin subunit alpha 11		34	0.678	0.5	8.661e-08	0.1		1.0	1	1	2008.0	2008.0
+Attention deficit hyperactivity disorder	C1263846	PUF60	22827	Q9UHX1	poly(U) binding splicing factor 60		188	0.536	0.769	0.99677	0.1			0	1		
+Attention deficit hyperactivity disorder	C1263846	CNKSR2	22866	Q8WXI2	connector enhancer of kinase suppressor of Ras 2		96	0.628	0.538	0.99996	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	NLGN1	22871	Q8N2Q7	neuroligin 1		32	0.705	0.385	0.85276	0.1		1.0	1	1	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	TRAK1	22906	Q9UPV9	trafficking kinesin protein 1	Transporter	66	0.674	0.423	0.00037311	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	FAN1	22909	Q9Y2M0	FANCD2 and FANCI associated nuclease 1		93	0.61	0.577	1.6512e-25	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	SHANK2	22941	Q9UPX8	SH3 and multiple ankyrin repeat domains 2		49	0.663	0.385	8.4299e-07	0.1			0	1		
+Attention deficit hyperactivity disorder	C1263846	NT5C2	22978	P49902	5'-nucleotidase, cytosolic II	Enzyme	149	0.537	0.846	2.1385e-06	0.1		1.0	1	1	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	SORCS3	22986	Q9UPU3	sortilin related VPS10 domain containing receptor 3	Transporter	22	0.76	0.231	3.7354e-05	0.1		1.0	1	1	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	FLI1	2313	Q01543	Fli-1 proto-oncogene, ETS transcription factor	Transcription factor	318	0.468	0.692	0.9894	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	FLII	2314	Q13045	FLII actin remodeling protein		198	0.52	0.808	5.5313e-12	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	VPS13A	23230	Q96RL7	vacuolar protein sorting 13 homolog A		104	0.65	0.577	9.3125e-22	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	SATB2	23314	Q9UPW6	SATB homeobox 2	Transcription factor	233	0.503	0.769	0.99999	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	SZT2	23334	Q5T011	SZT2 subunit of KICSTOR complex		72	0.67	0.423	2.3263e-14	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	SYNE1	23345	Q8NF91	spectrin repeat containing nuclear envelope protein 1		237	0.511	0.846	3.1899e-52	0.1		1.0	1	1	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	MED13L	23389	Q71F56	mediator complex subunit 13L		94	0.617	0.538	1.0	0.1			0	1		
+Attention deficit hyperactivity disorder	C1263846	ADNP	23394	Q9H2P0	activity dependent neuroprotector homeobox		171	0.561	0.808	1.0	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	ZFPM2	23414	Q8WW38	zinc finger protein, FOG family member 2	Transcription factor	142	0.565	0.731	1.0	0.1		1.0	1	1	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	CDK20	23552	Q8IZL9	cyclin dependent kinase 20	Kinase	34	0.682	0.462	5.9487e-14	0.1			0	1		
+Attention deficit hyperactivity disorder	C1263846	NPAP1	23742	Q9NZP6	nuclear pore associated protein 1	Nucleic acid binding	66	0.67	0.5		0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	FTSJ1	24140	Q9UET6	FtsJ RNA 2'-O-methyltransferase 1		57	0.659	0.577	0.99254	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	GABRA1	2554	P14867	gamma-aminobutyric acid type A receptor subunit alpha1	Ion channel	123	0.563	0.577	0.91489	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	GABRB2	2561	P47870	gamma-aminobutyric acid type A receptor subunit beta2	Ion channel	89	0.619	0.5	0.84876	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	GABRG2	2566	P18507	gamma-aminobutyric acid type A receptor subunit gamma2	Ion channel	169	0.548	0.654	0.73852	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	NIPBL	25836	Q6KC79	NIPBL cohesin loading factor	Nucleic acid binding	225	0.521	0.808	1.0	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	ASPM	259266	Q8IZT6	abnormal spindle microtubule assembly		159	0.526	0.769	3.3502e-49	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	SIN3A	25942	Q96ST3	SIN3 transcription regulator family member A	Enzyme	184	0.551	0.692	1.0	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	SH2B1	25970	Q9NRF2	SH2B adaptor protein 1		140	0.566	0.731	0.96861	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	PARS2	25973	Q7L3T8	prolyl-tRNA synthetase 2, mitochondrial	Enzyme	88	0.644	0.423	0.0041217	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	NECAP1	25977	Q8NC96	NECAP endocytosis associated 1		55	0.691	0.346	0.12559	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	TENM4	26011	Q6N022	teneurin transmembrane protein 4		44	0.65	0.462	1.0	0.1		1.0	1	1	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	SETBP1	26040	Q9Y6X0	SET binding protein 1		257	0.503	0.808	1.0	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	GATA4	2626	P43694	GATA binding protein 4		336	0.458	0.846	0.49308	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	TBL2	26608	Q9Y4P3	transducin beta like 2		190	0.538	0.731	0.00018452	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	GDI1	2664	P31150	GDP dissociation inhibitor 1	Enzyme	102	0.572	0.654	0.99471	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	CYFIP2	26999	Q96F07	cytoplasmic FMR1 interacting protein 2	Enzyme modulator	95	0.633	0.731	1.0	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	MLH3	27030	Q9UHC1	mutL homolog 3	Nucleic acid binding	108	0.582	0.538	4.9023e-08	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	SRPX2	27286	O60687	sushi repeat containing protein X-linked 2		80	0.621	0.462	0.04812	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	GLUD1	2746	P00367	glutamate dehydrogenase 1	Enzyme	86	0.584	0.731	0.0070495	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	GNAQ	2776	P50148	G protein subunit alpha q	Enzyme modulator	219	0.516	0.808	0.98069	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	GNAS	2778	O95467;P63092;P84996;Q5JWF2	GNAS complex locus	Enzyme modulator	536	0.42	0.885	0.68076	0.1			0	1		
+Attention deficit hyperactivity disorder	C1263846	GP1BB	2812	P13224	glycoprotein Ib platelet subunit beta		192	0.524	0.769	0.51249	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	SLC13A5	284111	Q86YT5	solute carrier family 13 member 5	Transporter	106	0.608	0.577	0.00050598	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	LAMA1	284217	P25391	laminin subunit alpha 1		107	0.582	0.808	3.2248e-32	0.1			0	1		
+Attention deficit hyperactivity disorder	C1263846	ZNF615	284370	Q8N8J6	zinc finger protein 615	Transcription factor	5	0.861	0.038	8.376e-12	0.1		1.0	1	1	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	ANK3	288	Q12955	ankyrin 3		106	0.578	0.654	1.0	0.1		1.0	1	2	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	GRIA4	2893	P48058	glutamate ionotropic receptor AMPA type subunit 4	Ion channel	75	0.631	0.615	0.01831	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	GRIN2D	2906	O15399	glutamate ionotropic receptor NMDA type subunit 2D	Ion channel	82	0.65	0.538	0.99996	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	MSH6	2956	P52701	mutS homolog 6	Nucleic acid binding	296	0.462	0.731	3.6705e-05	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	GTF2I	2969	P78347	general transcription factor IIi		249	0.5	0.808	0.99592	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	SH3KBP1	30011	Q96B97	SH3 domain containing kinase binding protein 1		37	0.705	0.615	0.99899	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	HCFC1	3054	P51610	host cell factor C1		100	0.601	0.692	1.0	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	HDC	3067	P19113	histidine decarboxylase		92	0.584	0.692	0.0041094	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	ZNRD1	30834	Q9P1U0	zinc ribbon domain containing 1		50	0.653	0.654	0.2067	0.1		1.0	1	1	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	TAX1BP3	30851	O14907	Tax1 binding protein 3		27	0.716	0.615	0.0052431	0.1			0	1		
+Attention deficit hyperactivity disorder	C1263846	HIVEP1	3096	P15822	HIVEP zinc finger 1		32	0.711	0.5	1.0	0.1			0	1		
+Attention deficit hyperactivity disorder	C1263846	HLA-DMB	3109	P28068	major histocompatibility complex, class II, DM beta	Immune response	41	0.638	0.615	0.0024627	0.1		1.0	1	1	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	HLA-DPB2	3116		major histocompatibility complex, class II, DP beta 2 (pseudogene)		15	0.743	0.5		0.1		1.0	1	1	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	HOXA2	3199	O43364	homeobox A2		26	0.7	0.385	0.19917	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	HSPG2	3339	P98160	heparan sulfate proteoglycan 2	Enzyme modulator	405	0.438	0.885	1.0376e-19	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	HTR1B	3351	P28222	5-hydroxytryptamine receptor 1B	G-protein coupled receptor	140	0.551	0.769	0.18947	0.1		0.769	13	4	2002.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	HTR2A	3356	P28223	5-hydroxytryptamine receptor 2A	G-protein coupled receptor	289	0.473	0.846	0.51124	0.1		1.0	13	3	2000.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	SNORD115-1	338433		small nucleolar RNA, C/D box 115-1		63	0.682	0.423		0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	ZNF81	347344	P51508	zinc finger protein 81		43	0.705	0.385	0.55402	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	TUBB2B	347733	Q9BVA1	tubulin beta 2B class IIb		82	0.61	0.385	0.9884	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	IGF1	3479	P05019	insulin like growth factor 1		1206	0.318	0.885	0.2716	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	HCN1	348980	O60741	hyperpolarization activated cyclic nucleotide gated potassium channel 1		157	0.564	0.654	0.99989	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	IPW	3653		imprinted in Prader-Willi syndrome		63	0.682	0.423		0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	ITGAE	3682	P38570	integrin subunit alpha E		95	0.579	0.692	3.9199e-20	0.1		1.0	1	1	2008.0	2008.0
+Attention deficit hyperactivity disorder	C1263846	STT3A	3703	P46977	STT3 oligosaccharyltransferase complex catalytic subunit A	Enzyme	39	0.67	0.577	0.002045	0.1		1.0	1	1	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	ITPR3	3710	Q14573	inositol 1,4,5-trisphosphate receptor type 3	Ion channel	112	0.555	0.808	2.5541e-22	0.1		1.0	1	1	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	KCNA2	3737	P16389	potassium voltage-gated channel subfamily A member 2	Ion channel	111	0.612	0.577	0.91067	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	KCNB1	3745	Q14721	potassium voltage-gated channel subfamily B member 1	Ion channel	84	0.65	0.462	0.99977	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	KIF7	374654	Q2M1P5	kinesin family member 7		195	0.528	0.731	2.2711e-22	0.1			0	1		
+Attention deficit hyperactivity disorder	C1263846	ARF1	375	P84077	ADP ribosylation factor 1		61	0.626	0.615	0.89967	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	KIF5B	3799	P33176	kinesin family member 5B	Cellular structure	67	0.604	0.538	0.99427	0.1			0	1		
+Attention deficit hyperactivity disorder	C1263846	KIF11	3832	P52732	kinesin family member 11	Cellular structure	156	0.56	0.769	1.0	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	KRAS	3845	P01116	KRAS proto-oncogene, GTPase	Enzyme modulator	1213	0.32	0.923	0.00078803	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	CEP85L	387119	Q5SZL2	centrosomal protein 85 like		40	0.656	0.423	4.5367e-09	0.1		1.0	1	2	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	MIR99AHG	388815		mir-99a-let-7c cluster host gene		17	0.78	0.192		0.1		1.0	1	1	2010.0	2010.0
+Attention deficit hyperactivity disorder	C1263846	SFTA2	389376	Q6UW10	surfactant associated 2		25	0.695	0.577	0.036441	0.1		1.0	1	1	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	USP27X	389856	A6NNY8	ubiquitin specific peptidase 27 X-linked		49	0.705	0.462	0.92373	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	LHCGR	3973	P22888	luteinizing hormone/choriogonadotropin receptor	G-protein coupled receptor	151	0.528	0.692	5.2988e-08	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	LIG4	3981	P49917	DNA ligase 4		293	0.478	0.846	4.1635e-06	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	LIMK1	3984	P53667	LIM domain kinase 1	Kinase	271	0.488	0.731	0.99937	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	MIR137HG	400765		MIR137 host gene		9	0.839	0.038		0.1		1.0	1	1	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	EPCAM	4072	P16422	epithelial cell adhesion molecule		328	0.451	0.885	1.2844e-07	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	MAN2A2	4122	P49641	mannosidase alpha class 2A member 2		1	1.0	0.038	1.4995e-10	0.1		1.0	1	1	2008.0	2008.0
+Attention deficit hyperactivity disorder	C1263846	MANBA	4126	O00462	mannosidase beta	Enzyme	38	0.736	0.462	1.3066e-18	0.1		1.0	1	1	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	MAOA	4128	P21397	monoamine oxidase A		300	0.465	0.769	0.99928	0.1		0.941	34	2	1999.0	2020.0
+Attention deficit hyperactivity disorder	C1263846	MAOB	4129	P27338	monoamine oxidase B		152	0.533	0.808	0.99903	0.1		1.0	11	3	1999.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	ARSD	414	P51689	arylsulfatase D	Enzyme	163	0.535	0.808	0.0016285	0.1		1.0	11	0	2017.0	2020.0
+Attention deficit hyperactivity disorder	C1263846	MEF2C	4208	Q06413	myocyte enhancer factor 2C	Transcription factor	206	0.517	0.769	0.017256	0.1		1.0	1	1	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	ARVCF	421	O00192	ARVCF delta catenin family member	Cellular structure	151	0.54	0.769	5.0422e-11	0.1			0	1		
+Attention deficit hyperactivity disorder	C1263846	MITF	4286	O75030	melanocyte inducing transcription factor		244	0.499	0.808	0.98119	0.1		1.0	4	1	2011.0	2016.0
+Attention deficit hyperactivity disorder	C1263846	MLH1	4292	P40692	mutL homolog 1	Nucleic acid binding	526	0.399	0.808	3.41e-05	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	KMT2A	4297	Q03164	lysine methyltransferase 2A		535	0.41	0.885	1.0	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	MOBP	4336	Q13875	myelin associated oligodendrocyte basic protein	Cellular structure	20	0.7	0.423	0.54623	0.1		1.0	1	1	2008.0	2008.0
+Attention deficit hyperactivity disorder	C1263846	MSH2	4436	P43246	mutS homolog 2	Nucleic acid binding	490	0.406	0.808	0.89539	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	COX1	4512	P00395	cytochrome c oxidase subunit I	Enzyme	421	0.441	0.885		0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	COX2	4513	P00403	cytochrome c oxidase subunit II	Enzyme	875	0.352	0.962		0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	COX3	4514	P00414	cytochrome c oxidase III	Enzyme	195	0.546	0.808		0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	ND1	4535	P03886	NADH dehydrogenase, subunit 1 (complex I)	Enzyme	260	0.522	0.769		0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	ND4	4538	P03905	NADH dehydrogenase, subunit 4 (complex I)	Enzyme	214	0.546	0.769		0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	ND5	4540	P03915	NADH dehydrogenase, subunit 5 (complex I)	Enzyme	241	0.531	0.769		0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	ND6	4541	P03923	NADH dehydrogenase, subunit 6 (complex I)		224	0.544	0.808		0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	TRNF	4558		tRNA		148	0.582	0.731		0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	TRNH	4564		tRNA		125	0.597	0.731		0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	TRNL1	4567		tRNA		234	0.534	0.731		0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	TRNQ	4572		tRNA		137	0.59	0.731		0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	TRNS1	4574		tRNA		186	0.555	0.808		0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	TRNS2	4575		tRNA		152	0.579	0.731		0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	TRNW	4578		tRNA		188	0.563	0.731		0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	NBN	4683	O60934	nibrin	Nucleic acid binding	291	0.467	0.808	2.1838e-16	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	NCL	4691	P19338	nucleolin	Nucleic acid binding	167	0.509	0.808	0.99992	0.1		1.0	1	1	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	NDN	4692	Q99608	necdin, MAGE family member	Nucleic acid binding	124	0.578	0.654	0.67495	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	NDP	4693	Q00604	norrin cystine knot growth factor NDP		142	0.566	0.692	0.65042	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	RERE	473	Q9P2R6	arginine-glutamic acid dipeptide repeats		215	0.526	0.846	1.0	0.1		1.0	1	1	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	OCRL	4952	Q01968	OCRL inositol polyphosphate-5-phosphatase	Enzyme	184	0.553	0.731	0.99999	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	OPHN1	4983	O60890	oligophrenin 1	Enzyme modulator	81	0.633	0.538	0.99985	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	SCAPER	49855	Q9BY12	S-phase cyclin A associated protein in the ER		56	0.653	0.5	0.0087953	0.1		1.0	1	1	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	PAK3	5063	O75914	p21 (RAC1) activated kinase 3	Kinase	134	0.569	0.731	0.98716	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	NTM	50863	Q9P121	neurotrimin		58	0.644	0.577	0.057798	0.1		1.0	1	1	2016.0	2016.0
+Attention deficit hyperactivity disorder	C1263846	WDPCP	51057	O95876	WD repeat containing planar cell polarity effector		105	0.576	0.769	1.0908e-10	0.1		1.0	1	1	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	MLXIPL	51085	Q9NP71	MLX interacting protein like		165	0.554	0.731	0.047771	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	ZDHHC9	51114	Q9Y397	zinc finger DHHC-type palmitoyltransferase 9		52	0.67	0.577	0.73749	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	PCNT	5116	O95613	pericentrin		156	0.564	0.808	4.0172e-58	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	CRBN	51185	Q96SW2	cereblon	Enzyme	130	0.551	0.654	0.00028911	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	RSRC1	51319	Q96IZ7	arginine and serine rich coiled-coil 1		66	0.65	0.462	7.4539e-05	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	WAC	51322	Q9BTA9	WW domain containing adaptor with coiled-coil		68	0.686	0.615	1.0	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	ACTL6B	51412	O94805	actin like 6B	Cellular structure	100	0.656	0.462	0.00028347	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	MPP6	51678	Q9NZW5	membrane palmitoylated protein 6	Enzyme	10	0.821	0.077	0.81619	0.1		1.0	1	1	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	WWOX	51741	Q9NZC7	WW domain containing oxidoreductase	Enzyme	356	0.453	0.808	1.2376e-15	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	ATP6V1A	523	P38606	ATPase H+ transporting V1 subunit A	Transporter	147	0.579	0.615	0.86801	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	PMS1	5378	P54277	PMS1 homolog 1, mismatch repair system component	Nucleic acid binding	115	0.569	0.654	1.3178e-17	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	PMS2	5395	P54278	PMS1 homolog 2, mismatch repair system component	Nucleic acid binding	244	0.484	0.808	4.5176e-27	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	POLG	5428	P54098	DNA polymerase gamma, catalytic subunit	Enzyme	462	0.457	0.846	2.0756e-09	0.1		1.0	3	1	2010.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	MAGEL2	54551	Q9UJ55	MAGE family member L2	Cell adhesion	184	0.56	0.654	0.97506	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	RBFOX1	54715	Q9NWB1	RNA binding fox-1 homolog 1	Nucleic acid binding	103	0.584	0.692	0.95263	0.1		1.0	1	1	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	CNNM2	54805	Q9H8M5	cyclin and CBS domain divalent metal cation transport mediator 2		91	0.641	0.346	0.99521	0.1		1.0	1	1	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	DYM	54808	Q7RTS9	dymeclin		155	0.563	0.769	3.5939e-13	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	NSUN2	54888	Q08J23	NOP2/Sun RNA methyltransferase 2	Enzyme	173	0.559	0.846	0.00025826	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	PHIP	55023	Q8WWQ0	pleckstrin homology domain interacting protein	Epigenetic regulator	121	0.595	0.769	1.0	0.1			0	6		
+Attention deficit hyperactivity disorder	C1263846	SETD5	55209	Q9C0A6	SET domain containing 5		161	0.56	0.731	0.99997	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	MAP11	55262	Q8WVR3	microtubule associated protein 11		26	0.736	0.423	0.18133	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	ACOXL	55289	Q9NUZ1	acyl-CoA oxidase like	Enzyme	46	0.674	0.577	5.2479e-15	0.1		1.0	1	1	2015.0	2015.0
+Attention deficit hyperactivity disorder	C1263846	PPP3CA	5530	Q08209	protein phosphatase 3 catalytic subunit alpha		149	0.568	0.769	0.99988	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	PI4K2B	55300	Q8TCG2	phosphatidylinositol 4-kinase type 2 beta	Enzyme	9	0.821	0.115	2.1895e-07	0.1		1.0	1	1	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	DHTKD1	55526	Q96HY7	dehydrogenase E1 and transketolase domain containing 1		28	0.711	0.385	2.7884e-30	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	CHD7	55636	Q9P2D1	chromodomain helicase DNA binding protein 7		419	0.441	0.846	1.0	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	MCTP2	55784	Q6DN12	multiple C2 and transmembrane domain containing 2		71	0.623	0.577	6.03e-52	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	PRKCG	5582	P05129	protein kinase C gamma	Kinase	90	0.617	0.5	0.99985	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	HDAC8	55869	Q9BY41	histone deacetylase 8	Epigenetic regulator	236	0.511	0.885	0.97707	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	MAPK1	5594	P28482	mitogen-activated protein kinase 1	Kinase	1059	0.33	0.923	0.99698	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	PRNP	5621	F7VJQ1;P04156	prion protein		426	0.445	0.923	0.00063182	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	C12orf4	57102	Q9NQ89	chromosome 12 open reading frame 4		49	0.691	0.308	1.0655e-05	0.1			0	1		
+Attention deficit hyperactivity disorder	C1263846	SLC4A10	57282	Q6U841	solute carrier family 4 member 10	Transporter	35	0.678	0.269	0.13404	0.1		1.0	1	1	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	TBC1D24	57465	Q9ULP9	TBC1 domain family member 24	Enzyme modulator	218	0.53	0.808	1.2788e-08	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	SORCS2	57537	Q96PQ0	sortilin related VPS10 domain containing receptor 2	Transporter	19	0.743	0.346	0.0031696	0.1		1.0	1	1	2015.0	2015.0
+Attention deficit hyperactivity disorder	C1263846	PTPRF	5792	P10586	protein tyrosine phosphatase receptor type F	Enzyme	95	0.578	0.615	1.0	0.1		1.0	2	3	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	RAD21	5885	O60216	RAD21 cohesin complex component		192	0.528	0.846	0.99701	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	RFC2	5982	P35250	replication factor C subunit 2	Enzyme	206	0.52	0.769	2.2054e-06	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	BCR	613	P11274	BCR activator of RhoGEF and GTPase	Enzyme modulator	392	0.431	0.885	0.98761	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	RPS6KA3	6197	P51812	ribosomal protein S6 kinase A3	Kinase	315	0.491	0.846	0.99999	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	RPS20	6224	P60866	ribosomal protein S20	Nucleic acid binding	86	0.61	0.692	0.020686	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	RREB1	6239	Q92766	ras responsive element binding protein 1		227	0.5	0.808	1.0	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	RXRG	6258	P48443	retinoid X receptor gamma	Nuclear receptor	40	0.674	0.615	0.42421	0.1		1.0	1	1	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	BDNF	627	P23560	brain derived neurotrophic factor	Signaling	992	0.345	0.923	0.65626	0.1		0.854	41	2	2005.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	BCORL1	63035	Q5H9F3	BCL6 corepressor like 1		49	0.682	0.5	0.99999	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	SCN3A	6328	Q9NY46	sodium voltage-gated channel alpha subunit 3	Ion channel	88	0.617	0.538	1.0	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	SCN8A	6334	Q9UQD0	sodium voltage-gated channel alpha subunit 8	Ion channel	302	0.51	0.731	1.0	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	SDHA	6389	P31040	succinate dehydrogenase complex flavoprotein subunit A	Enzyme	246	0.517	0.731	2.6088e-10	0.1		1.0	4	1	2010.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	PIEZO2	63895	Q9H5I5	piezo type mechanosensitive ion channel component 2	Ion channel	224	0.529	0.769	8.0992e-07	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	CXorf56	63932	Q9H5V9	chromosome X open reading frame 56		50	0.705	0.385	0.95204	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	SEMA4A	64218	Q9H3S1	semaphorin 4A	Signaling	141	0.569	0.692	1.8394e-05	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	CSMD1	64478	Q96PZ7	CUB and Sushi multiple domains 1		90	0.61	0.5	1.0	0.1		1.0	1	1	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	LINC00461	645323		long intergenic non-protein coding RNA 461		30	0.736	0.423		0.1		1.0	3	2	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	ARV1	64801	Q9H2C2	ARV1 homolog, fatty acid homeostasis modulator		57	0.691	0.423	3.5867e-06	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	SIM1	6492	P81133	SIM bHLH transcription factor 1	Transcription factor	84	0.626	0.654	0.99828	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	SLC1A2	6506	P43004	solute carrier family 1 member 2	Transporter	208	0.511	0.731	0.71036	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	SLC2A1	6513	P11166	solute carrier family 2 member 1	Transporter	687	0.388	0.808	0.9941	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	SLC6A2	6530	P23975	solute carrier family 6 member 2	Transporter	238	0.49	0.846	0.081524	0.1		0.923	39	10	2002.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	SLC6A4	6532	P31645	solute carrier family 6 member 4	Transporter	440	0.429	0.808	0.24602	0.1		0.939	49	2	2001.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	SLC6A9	6536	P48067	solute carrier family 6 member 9	Transporter	71	0.641	0.5	2.1702e-05	0.1		1.0	1	1	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	BMPR1A	657	P36894	bone morphogenetic protein receptor type 1A	Kinase	203	0.522	0.731	0.90333	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	SMPD1	6609	P17405	sphingomyelin phosphodiesterase 1	Enzyme	247	0.499	0.885	3.8932e-10	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	SNAP25	6616	P60880	synaptosome associated protein 25	Transporter	283	0.489	0.808	0.98653	0.1		1.0	35	8	2000.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	SNRPN	6638	P63162;Q9Y675	small nuclear ribonucleoprotein polypeptide N	Nucleic acid binding	183	0.538	0.731	0.043181	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	SOX5	6660	P35711	SRY-box transcription factor 5		150	0.545	0.769	0.99995	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	SPG7	6687	Q9UQ90	SPG7 matrix AAA peptidase subunit, paraplegin	Enzyme	419	0.436	0.885	1.9683e-36	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	BRCA2	675	P51587	BRCA2 DNA repair associated	Nucleic acid binding	656	0.379	0.846	2.3581e-25	0.1		1.0	6	1	2005.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	STXBP1	6812	P61764	syntaxin binding protein 1	Transporter	213	0.532	0.692	1.0	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	TBX1	6899	O43435	T-box transcription factor 1	Transcription factor	417	0.433	0.808	0.83661	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	TCF4	6925	P15884	transcription factor 4	Transcription factor	378	0.464	0.846	0.99981	0.1		1.0	1	1	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	TCF20	6942	Q9UGU0	transcription factor 20	Transcription factor	78	0.644	0.423	1.0	0.1			0	1		
+Attention deficit hyperactivity disorder	C1263846	TGFBR2	7048	P37173	transforming growth factor beta receptor 2	Kinase	502	0.413	0.846	0.12535	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	TSPAN7	7102	P41732	tetraspanin 7		87	0.604	0.731	0.74577	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	TRIO	7204	O75962	trio Rho guanine nucleotide exchange factor	Kinase	143	0.556	0.731	1.0	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	TSC1	7248	Q92574	TSC complex subunit 1		391	0.44	0.808	1.0	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	TSC2	7249	P49815	TSC complex subunit 2	Enzyme modulator	410	0.439	0.808	1.0	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	HIRA	7290	P54198	histone cell cycle regulator	Nucleic acid binding	157	0.537	0.808	1.0	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	UBE3A	7337	Q05086	ubiquitin protein ligase E3A		155	0.561	0.692	0.9998	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	UFD1	7353	Q92890	ubiquitin recognition factor in ER associated degradation 1		148	0.537	0.769	0.99638	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	CLIP2	7461	Q9UDT6	CAP-Gly domain containing linker protein 2	Cellular structure	201	0.529	0.808	0.99997	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	YWHAG	7532	P61981	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma	Chaperone	85	0.621	0.5	0.964	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	ZNF711	7552	Q9Y462	zinc finger protein 711		52	0.691	0.423	0.97887	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	ZNF41	7592	P51814	zinc finger protein 41		45	0.711	0.385	0.035083	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	MKRN3	7681	Q13064	makorin ring finger protein 3	Enzyme	92	0.619	0.615	0.27756	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	PCGF2	7703	P35227	polycomb group ring finger 2		114	0.579	0.615	0.86397	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	TRIM26	7726	Q12899	tripartite motif containing 26		31	0.705	0.577	0.17836	0.1		1.0	1	1	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	CACNA1A	773	O00555	calcium voltage-gated channel subunit alpha1 A	Ion channel	320	0.489	0.769	1.0	0.1		1.0	1	3	2015.0	2015.0
+Attention deficit hyperactivity disorder	C1263846	CACNA1B	774	Q00975	calcium voltage-gated channel subunit alpha1 B	Ion channel	79	0.65	0.577	0.99998	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	CACNB2	783	Q08289	calcium voltage-gated channel auxiliary subunit beta 2	Ion channel	56	0.659	0.538	2.6719e-06	0.1		1.0	1	1	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	PWRN1	791114		Prader-Willi region non-protein coding RNA 1		69	0.67	0.5		0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	SPAG16	79582	Q8N0X2	sperm associated antigen 16	Cellular structure	17	0.76	0.385	1.4037e-34	0.1		1.0	1	1	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	ALG13	79868	Q9NP73	ALG13 UDP-N-acetylglucosaminyltransferase subunit		98	0.631	0.577	0.99998	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	UBA5	79876	Q9GZZ9	ubiquitin like modifier activating enzyme 5	Enzyme	150	0.582	0.731	0.00025218	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	PANK2	80025	Q9BZ23	pantothenate kinase 2	Kinase	171	0.559	0.808	7.4034e-07	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	SEMA6D	80031	Q8NFY4	semaphorin 6D	Signaling	43	0.7	0.385	0.93948	0.1		1.0	3	3	2018.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	CSRNP3	80034	Q8WYN3	cysteine and serine rich nuclear protein 3		20	0.805	0.192	0.50018	0.1		1.0	1	1	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	ADAM12	8038	O43184	ADAM metallopeptidase domain 12	Enzyme	107	0.565	0.731	5.7284e-07	0.1		1.0	2	1	2016.0	2016.0
+Attention deficit hyperactivity disorder	C1263846	AP3B2	8120	Q13367	adaptor related protein complex 3 subunit beta 2	Transporter	60	0.691	0.346	0.77198	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	CHAF1B	8208	Q13112	chromatin assembly factor 1 subunit B	Nucleic acid binding	44	0.663	0.538	0.42768	0.1			0	1		
+Attention deficit hyperactivity disorder	C1263846	USP9X	8239	Q93008	ubiquitin specific peptidase 9 X-linked		255	0.502	0.846	1.0	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	SMC1A	8243	Q14683	structural maintenance of chromosomes 1A		251	0.509	0.808	1.0	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	TMEM47	83604	Q9BQJ4	transmembrane protein 47		8	0.821	0.154	0.79685	0.1			0	1		
+Attention deficit hyperactivity disorder	C1263846	FERMT3	83706	Q86UX7	fermitin family member 3		63	0.638	0.538	0.00026014	0.1		1.0	1	1	2011.0	2011.0
+Attention deficit hyperactivity disorder	C1263846	ASCC2	84164	Q9H1I8	activating signal cointegrator 1 complex subunit 2		53	0.633	0.615	0.031027	0.1		1.0	1	1	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	SLC9A7	84679	Q96T83	solute carrier family 9 member A7	Transporter	52	0.695	0.577	0.99352	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	PPM1D	8493	O15297	protein phosphatase, Mg2+/Mn2+ dependent 1D	Enzyme	177	0.513	0.808	2.2321e-11	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	IKBKG	8517	Q9Y6K9	inhibitor of nuclear factor kappa B kinase regulatory subunit gamma	Kinase	252	0.493	0.769	0.084853	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	JRK	8629	O75564	Jrk helix-turn-helix protein		73	0.612	0.5		0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	SYNGAP1	8831	Q96PV0	synaptic Ras GTPase activating protein 1	Enzyme modulator	145	0.584	0.577	1.0	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	SYNJ1	8867	O43426	synaptojanin 1	Enzyme	128	0.576	0.577	0.42709	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	CACNA1H	8912	O95180	calcium voltage-gated channel subunit alpha1 H	Ion channel	82	0.628	0.423	4.7778e-10	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	HERC2	8924	O95714	HECT and RLD domain containing E3 ubiquitin protein ligase 2		143	0.568	0.692	1.0	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	BRSK2	9024	Q8IWQ3	BR serine/threonine kinase 2	Kinase	33	0.7	0.5	0.95141	0.1		1.0	1	1	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	BAZ1B	9031	Q9UIG0	bromodomain adjacent to zinc finger domain 1B		215	0.53	0.731	1.0	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	MLIP	90523	Q5VWP3	muscular LMNA interacting protein		37	0.682	0.577	3.1564e-16	0.1		1.0	1	1	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	SMC3	9126	Q9UQE7	structural maintenance of chromosomes 3		193	0.535	0.846	1.0	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	ALKBH8	91801	Q96BT7	alkB homolog 8, tRNA methyltransferase		29	0.716	0.423	0.00020414	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	ARHGEF6	9459	Q15052	Rac/Cdc42 guanine nucleotide exchange factor 6		52	0.678	0.462	0.99998	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	GTF2IRD1	9569	Q9UHL9	GTF2I repeat domain containing 1		222	0.522	0.769	0.90039	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	SEC24C	9632	P53992	SEC24 homolog C, COPII coat complex component	Transporter	139	0.543	0.808	1.0	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	FEZ1	9638	Q99689	fasciculation and elongation protein zeta 1		41	0.666	0.5	0.75002	0.1		1.0	1	1	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	SEMA3E	9723	O15041	semaphorin 3E	Signaling	184	0.515	0.769	8.7148e-09	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	FRMPD4	9758	Q14CM0	FERM and PDZ domain containing 4		68	0.674	0.423	1.0	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	HDAC4	9759	P56524	histone deacetylase 4	Epigenetic regulator	256	0.484	0.885	1.0	0.1			0	1		
+Attention deficit hyperactivity disorder	C1263846	NUAK1	9891	O60285	NUAK family kinase 1	Kinase	61	0.621	0.577	0.098693	0.1		1.0	1	1	2015.0	2015.0
+Attention deficit hyperactivity disorder	C1263846	ATP2C2	9914	O75185	ATPase secretory pathway Ca2+ transporting 2	Transporter	18	0.769	0.308	5.0246e-60	0.1		1.0	1	1	2008.0	2008.0
+Attention deficit hyperactivity disorder	C1263846	KIF14	9928	Q15058	kinesin family member 14	Cellular structure	103	0.578	0.654	4.1141e-05	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	MED12	9968	Q93074	mediator complex subunit 12	Transcription factor	340	0.476	0.769	1.0	0.1			0	0		
+Attention deficit hyperactivity disorder	C1263846	CDH13	1012	P55290	cadherin 13		205	0.501	0.846	0.0007058	0.09		1.0	9	1	2010.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	DRD1	1812	P21728	dopamine receptor D1	G-protein coupled receptor	181	0.529	0.808	0.9555	0.09		1.0	9	0	1998.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	CYP2D6	1565	P10635	cytochrome P450 family 2 subfamily D member 6		432	0.437	0.885	1.0793e-25	0.08		1.0	8	0	2003.0	2016.0
+Attention deficit hyperactivity disorder	C1263846	DNTT	1791	P04053	DNA nucleotidylexotransferase	Enzyme	70	0.606	0.692	2.9548e-10	0.08		0.875	8	0	1998.0	2008.0
+Attention deficit hyperactivity disorder	C1263846	ELK3	2004	P41970	ETS transcription factor ELK3	Transcription factor	220	0.49	0.846	0.083508	0.08		1.0	8	0	2008.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	CLOCK	9575	O15516	clock circadian regulator		309	0.463	0.885	0.99957	0.08		1.0	8	1	2010.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	MTHFR	4524	P42898	methylenetetrahydrofolate reductase		985	0.337	0.885	3.2068e-10	0.07		0.857	7	5	2011.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	NTF3	4908	P20783	neurotrophin 3	Signaling	170	0.519	0.808	0.93201	0.07		0.857	7	1	2008.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	STX1A	6804	Q16623	syntaxin 1A	Transporter	74	0.621	0.654	0.9785	0.07		1.0	7	3	2013.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	WASF2	10163	Q9Y6W5	WASP family member 2	Cellular structure	95	0.585	0.769	0.97567	0.06		1.0	6	0	2016.0	2020.0
+Attention deficit hyperactivity disorder	C1263846	ADRA1A	148	P35348	adrenoceptor alpha 1A	G-protein coupled receptor	294	0.462	0.846	3.3722e-07	0.06		1.0	6	0	2001.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	EPHB1	2047	P54762	EPH receptor B1	Kinase	169	0.518	0.846	0.9985	0.06		1.0	6	0	2008.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	SLC9A9	285195	Q8IVB4	solute carrier family 9 member A9	Transporter	44	0.656	0.577	5.3311e-12	0.06		1.0	6	1	2010.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	LOC110806262	110806262		solute carrier family 6 member 4 gene promoter		63	0.626	0.423		0.05		0.8	5	0	2003.0	2015.0
+Attention deficit hyperactivity disorder	C1263846	HTR1A	3350	P08908	5-hydroxytryptamine receptor 1A	G-protein coupled receptor	229	0.522	0.846	0.19956	0.05		1.0	5	0	2007.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	NGF	4803	P01138	nerve growth factor	Signaling	616	0.391	0.885	0.82026	0.05		1.0	5	0	2007.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	CHPT1	56994	Q8WUD6	choline phosphotransferase 1	Enzyme	253	0.474	0.846	0.00024252	0.05		1.0	5	0	2012.0	2018.0
+Attention Deficit Disorder	C0041671	ADD2	119	P35612	adducin 2	Cellular structure	29	0.678	0.615	0.9961	0.04		1.0	4	0	1987.0	1987.0
+Attention deficit hyperactivity disorder	C1263846	NET1	10276	Q7Z628	neuroepithelial cell transforming 1		44	0.663	0.538	2.1017e-06	0.04		1.0	4	0	2005.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	BAIAP2	10458	Q9UQB8	BAR/IMD domain containing adaptor protein 2	Receptor	25	0.769	0.192	0.46155	0.04		1.0	4	4	2009.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	CXCR6	10663	O00574	C-X-C motif chemokine receptor 6	G-protein coupled receptor	325	0.448	0.885	5.7212e-05	0.04		1.0	4	0	2011.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	LOC107987479	107987479		cytochrome P450 2D6		76	0.597	0.769		0.04		1.0	4	0	2003.0	2015.0
+Attention deficit hyperactivity disorder	C1263846	RSS	140821		Russell Silver syndrome		103	0.578	0.692		0.04		1.0	4	0	2016.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	ADRA2B	151	P18089	adrenoceptor alpha 2B	G-protein coupled receptor	296	0.465	0.846	4.4533e-06	0.04		1.0	4	0	2011.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	ADRA2C	152	P18825	adrenoceptor alpha 2C	G-protein coupled receptor	40	0.682	0.346	0.50159	0.04		1.0	4	0	1999.0	2008.0
+Attention deficit hyperactivity disorder	C1263846	DDC	1644	P20711	dopa decarboxylase		164	0.535	0.769	3.7519e-08	0.04		1.0	4	0	2001.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	DRD3	1814	P35462	dopamine receptor D3	G-protein coupled receptor	199	0.529	0.692	0.0023694	0.04		1.0	4	1	2000.0	2009.0
+Attention deficit hyperactivity disorder	C1263846	EDNRA	1909	P25101	endothelin receptor type A	G-protein coupled receptor	427	0.426	0.885	0.99158	0.04		1.0	4	0	2011.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	GPR42	2866	O15529	G protein-coupled receptor 42 (gene/pseudogene)	G-protein coupled receptor	255	0.475	0.846	0.050905	0.04		1.0	4	0	2011.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	REM1	28954	O75628	RRAD and GEM like GTPase 1		177	0.531	0.885	5.3363e-08	0.04		1.0	4	0	2017.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	GRIN2B	2904	Q13224	glutamate ionotropic receptor NMDA type subunit 2B	Ion channel	249	0.51	0.692	1.0	0.04		1.0	4	1	2007.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	NR3C1	2908	P04150	nuclear receptor subfamily 3 group C member 1	Nuclear receptor	590	0.393	0.885	0.96958	0.04		1.0	4	1	2016.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	GTS	2973		Gilles de la Tourette syndrome		32	0.682	0.615		0.04		1.0	4	0	1990.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	HTR2C	3358	P28335	5-hydroxytryptamine receptor 2C	G-protein coupled receptor	140	0.555	0.692	0.037023	0.04		0.75	4	3	2003.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	MC4R	4160	P32245	melanocortin 4 receptor	G-protein coupled receptor	149	0.535	0.692	0.00091697	0.04		1.0	4	2	2008.0	2015.0
+Attention deficit hyperactivity disorder	C1263846	NOS1	4842	P29475	nitric oxide synthase 1		521	0.408	0.885	1.0	0.04		1.0	4	1	2011.0	2016.0
+Attention deficit hyperactivity disorder	C1263846	NPY	4852	P01303	neuropeptide Y	Signaling	381	0.447	0.846	0.14294	0.04		1.0	4	0	2011.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	ACKR3	57007	P25106	atypical chemokine receptor 3	G-protein coupled receptor	400	0.428	0.885	0.39134	0.04		1.0	4	0	2011.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	SMS	6611	P52788	spermine synthase		263	0.491	0.846	0.97297	0.04		1.0	4	0	2016.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	SSTR4	6754	P31391	somatostatin receptor 4	G-protein coupled receptor	273	0.469	0.846	3.6978e-13	0.04		1.0	4	0	2011.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	BRS3	680	P32247	bombesin receptor subtype 3	G-protein coupled receptor	261	0.474	0.846	0.94849	0.04		1.0	4	0	2011.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	TPH1	7166	P17752	tryptophan hydroxylase 1		127	0.553	0.731	3.1872e-07	0.04		0.5	4	0	2001.0	2011.0
+Attention deficit hyperactivity disorder	C1263846	LPAR2	9170	Q9HBW0	lysophosphatidic acid receptor 2	G-protein coupled receptor	285	0.463	0.846	0.036658	0.04		1.0	4	0	2011.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	STUB1	10273	Q9UNE7	STIP1 homology and U-box containing protein 1		155	0.544	0.692	0.018667	0.03		1.0	3	0	2003.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	CES1	1066	P23141	carboxylesterase 1	Enzyme	80	0.59	0.692	3.3228e-15	0.03		1.0	3	2	2009.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	CHRNA3	1136	P32297	cholinergic receptor nicotinic alpha 3 subunit	Ion channel	110	0.588	0.692	1.4197e-07	0.03		1.0	3	2	2012.0	2016.0
+Attention deficit hyperactivity disorder	C1263846	ANKK1	255239	Q8NFD2	ankyrin repeat and kinase domain containing 1	Kinase	71	0.604	0.462	7.4008e-12	0.03		1.0	3	1	2015.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	DISC1	27185	Q9NRI5	DISC1 scaffold protein		136	0.548	0.769	1.6756e-06	0.03		1.0	3	3	2006.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	AMPH	273	P49418	amphiphysin		47	0.653	0.462	1.7006e-05	0.03		1.0	3	0	2017.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	HCRT	3060	O43612	hypocretin neuropeptide precursor		237	0.5	0.808	0.028774	0.03		1.0	3	0	2017.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	MIRLET7D	406886		microRNA let-7d		82	0.579	0.692		0.03		1.0	3	0	2015.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	NR4A2	4929	P43354	nuclear receptor subfamily 4 group A member 2	Nuclear receptor	166	0.529	0.846	0.99959	0.03		1.0	3	0	2005.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	DIRAS2	54769	Q96HU8	DIRAS family GTPase 2	Enzyme modulator	1	1.0	0.038	0.47802	0.03		1.0	3	0	2011.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	IMPACT	55364	Q9P2X3	impact RWD domain protein		85	0.593	0.808	4.8274e-08	0.03		1.0	3	0	2016.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	ABCB10P1	56476		ABCB10 pseudogene 1		9	0.839	0.231		0.03		1.0	3	0	2017.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	SHBG	6462	P04278	sex hormone binding globulin		368	0.438	0.808	1.2538e-06	0.03		0.667	3	0	2017.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	SLC1A3	6507	P43003	solute carrier family 1 member 3	Transporter	109	0.573	0.577	0.98914	0.03		1.0	3	2	2005.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	VAMP2	6844	P63027	vesicle associated membrane protein 2		47	0.65	0.462	0.88736	0.03		1.0	3	0	2015.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	VEGFA	7422	P15692	vascular endothelial growth factor A	Signaling	1899	0.266	0.923	2.4085e-05	0.03		1.0	3	0	2017.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	SHANK3	85358	Q9BYB0	SH3 and multiple ankyrin repeat domains 3		169	0.55	0.731	1.0	0.03		1.0	3	0	2013.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	WASF1	8936	Q92558	WASP family member 1	Cellular structure	132	0.547	0.808	0.99757	0.03		1.0	3	0	2018.0	2020.0
+Attention deficit hyperactivity disorder	C1263846	ZNF804A	91752	Q7Z570	zinc finger protein 804A		53	0.647	0.654	0.0055255	0.03		1.0	3	1	2011.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	ADIPOQ	9370	Q15848	adiponectin, C1Q and collagen domain containing		679	0.376	0.885	4.6434e-09	0.03		1.0	3	0	2014.0	2018.0
+Attention deficit hyperactivity disorder, combined type	C2945552	SLC6A3	6531	Q01959	solute carrier family 6 member 3	Transporter	373	0.453	0.885	0.99758	0.03		1.0	3	0	2007.0	2012.0
+Child attention deficit disorder	C0004269	PTEN	5728	P60484	phosphatase and tensin homolog	Enzyme	1349	0.305	0.923	0.25651	0.02		1.0	2	0	2009.0	2013.0
+Attention Deficit Disorder	C0041671	NR3C1	2908	P04150	nuclear receptor subfamily 3 group C member 1	Nuclear receptor	590	0.393	0.885	0.96958	0.02		1.0	2	0	2017.0	2017.0
+Attention Deficit Disorder	C0041671	APOE	348	P02649	apolipoprotein E		1049	0.338	0.962	0.0018685	0.02		1.0	2	0	2003.0	2016.0
+Attention Deficit Disorder	C0041671	PTEN	5728	P60484	phosphatase and tensin homolog	Enzyme	1349	0.305	0.923	0.25651	0.02		1.0	2	0	2009.0	2013.0
+Attention Deficit Disorder	C0041671	DTNBP1	84062	Q96EV8	dystrobrevin binding protein 1		93	0.588	0.615	6.8375e-06	0.02		1.0	2	0	2010.0	2012.0
+Attention-Deficit/Hyperactivity Disorder, Predominantly Inattentive Type	C0339002	SLC6A3	6531	Q01959	solute carrier family 6 member 3	Transporter	373	0.453	0.885	0.99758	0.02		1.0	2	0	1995.0	2016.0
+Attention deficit hyperactivity disorder	C1263846	ADHD5	100190790		Attention deficit-hyperactivity disorder, susceptibility to, 5		2	0.931	0.038		0.02		1.0	2	0	2006.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	RBM12	10137	Q9NTZ6	RNA binding motif protein 12	Nucleic acid binding	17	0.769	0.269	0.0021086	0.02		0.5	2	0	2005.0	2020.0
+Attention deficit hyperactivity disorder	C1263846	CDK5	1020	Q00535	cyclin dependent kinase 5	Kinase	204	0.495	0.846	0.13892	0.02		1.0	2	0	2017.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	LOC102723407	102723407		immunoglobulin heavy variable 4-38-2-like		159	0.514	0.769		0.02		1.0	2	0	2007.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	LOC102724971	102724971		putative V-set and immunoglobulin domain-containing-like protein IGHV4OR15-8		139	0.527	0.769		0.02		1.0	2	0	2007.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	ERICD	104355217		E2F1-regulated inhibitor of cell death		36	0.691	0.654		0.02		1.0	2	0	2019.0	2020.0
+Attention deficit hyperactivity disorder	C1263846	SLC9A6	10479	Q92581	solute carrier family 9 member A6	Transporter	210	0.516	0.846	0.99833	0.02		1.0	2	0	2016.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	POLR3A	11128	O14802	RNA polymerase III subunit A	Enzyme	219	0.538	0.769	1.2821e-23	0.02		1.0	2	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	CHRNA5	1138	P30532	cholinergic receptor nicotinic alpha 5 subunit	Ion channel	110	0.593	0.577	2.1488e-06	0.02		1.0	2	0	2016.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	BTBD9	114781	Q96Q07	BTB domain containing 9		27	0.691	0.423	7.0655e-09	0.02		1.0	2	2	2009.0	2009.0
+Attention deficit hyperactivity disorder	C1263846	ADORA2A	135	P29274	adenosine A2a receptor	G-protein coupled receptor	213	0.526	0.769	0.5971	0.02		1.0	2	1	2013.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	CRP	1401	P02741	C-reactive protein		1483	0.299	0.962	0.0036969	0.02		0.5	2	0	2018.0	2020.0
+Attention deficit hyperactivity disorder	C1263846	DNAAF4	161582	Q8WXU2	dynein axonemal assembly factor 4		70	0.623	0.731	9.7181e-10	0.02		0.5	2	0	2008.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	DNMT3B	1789	Q9UBC3	DNA methyltransferase 3 beta		315	0.453	0.846	0.19964	0.02		1.0	2	0	2017.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	F2R	2149	P25116	coagulation factor II thrombin receptor	G-protein coupled receptor	347	0.444	0.846	0.0084678	0.02		0.5	2	0	2002.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	FLRT3	23767	Q9NZU0	fibronectin leucine rich transmembrane protein 3		63	0.659	0.615	0.22014	0.02		1.0	2	0	2013.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	GAD1	2571	Q99259	glutamate decarboxylase 1	Enzyme	245	0.486	0.885	0.046164	0.02		1.0	2	2	2016.0	2020.0
+Attention deficit hyperactivity disorder	C1263846	PART1	25859		prostate androgen-regulated transcript 1		250	0.483	0.885		0.02		1.0	2	0	2011.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	CNTNAP2	26047	Q9UHC6	contactin associated protein 2		203	0.53	0.846	2.8673e-09	0.02		1.0	2	1	2010.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	GRIA1	2890	P42261	glutamate ionotropic receptor AMPA type subunit 1	Ion channel	126	0.57	0.577	0.99869	0.02		1.0	2	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	GUCY2C	2984	P25092	guanylate cyclase 2C	Kinase	88	0.599	0.577	1.3919e-30	0.02		1.0	2	0	2014.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	HLA-DRB1	3123	P01911	major histocompatibility complex, class II, DR beta 1	Immune response	1018	0.333	0.923	0.0010997	0.02		0.5	2	0	2001.0	2003.0
+Attention deficit hyperactivity disorder	C1263846	APOE	348	P02649	apolipoprotein E		1049	0.338	0.962	0.0018685	0.02		1.0	2	0	2003.0	2016.0
+Attention deficit hyperactivity disorder	C1263846	IL1B	3553	P01584	interleukin 1 beta		1801	0.276	0.962	0.13005	0.02		1.0	2	0	2004.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	IL1RN	3557	P18510	interleukin 1 receptor antagonist		701	0.373	0.923	0.030914	0.02		0.5	2	0	2002.0	2004.0
+Attention deficit hyperactivity disorder	C1263846	IL5	3567	P05113	interleukin 5		359	0.437	0.846	0.0056529	0.02		1.0	2	0	2016.0	2020.0
+Attention deficit hyperactivity disorder	C1263846	IL6	3569	P05231	interleukin 6		2367	0.248	0.962	0.31536	0.02		1.0	2	0	2018.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	IL10	3586	P22301	interleukin 10		1679	0.281	0.923	0.0058874	0.02		1.0	2	0	2017.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	INS	3630	P01308	insulin		405	0.445	0.923	0.30091	0.02		1.0	2	0	2003.0	2009.0
+Attention deficit hyperactivity disorder	C1263846	INSRR	3645	P14616	insulin receptor related receptor	Kinase	186	0.508	0.808	5.3976e-24	0.02		1.0	2	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	KRT7	3855	P08729	keratin 7		287	0.463	0.808	3.0861e-12	0.02		1.0	2	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	NPSR1	387129	Q6W5P4	neuropeptide S receptor 1		69	0.608	0.615	2.0518e-09	0.02		0.0	2	1	2007.0	2014.0
+Attention deficit hyperactivity disorder	C1263846	MTR	4548	Q99707	5-methyltetrahydrofolate-homocysteine methyltransferase		245	0.482	0.808	2.4301e-12	0.02		1.0	2	1	2017.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	NCAM1	4684	P13591	neural cell adhesion molecule 1		445	0.415	0.885	0.99999	0.02		1.0	2	0	2011.0	2012.0
+Attention deficit hyperactivity disorder	C1263846	BDNF-AS	497258		BDNF antisense RNA		77	0.638	0.538		0.02		1.0	2	2	2007.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	OXTR	5021	P30559	oxytocin receptor	G-protein coupled receptor	144	0.541	0.769	0.00071066	0.02		1.0	2	4	2015.0	2016.0
+Attention deficit hyperactivity disorder	C1263846	DCDC2	51473	Q9UHG0	doublecortin domain containing 2		128	0.546	0.769	5.6611e-10	0.02		1.0	2	0	2009.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	SCLY	51540	Q96I15	selenocysteine lyase	Enzyme	161	0.53	0.731	2.3341e-09	0.02		1.0	2	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	CFP	5199	P27918	complement factor properdin		108	0.573	0.692	0.68778	0.02		1.0	2	0	2011.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	PIK3CG	5294	P48736	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma	Kinase	1101	0.32	0.885	1.4076e-06	0.02		1.0	2	3	2009.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	NANS	54187	Q9NR45	N-acetylneuraminate synthase	Enzyme	153	0.545	0.692		0.02		1.0	2	0	2015.0	2020.0
+Attention deficit hyperactivity disorder	C1263846	POMC	5443	P01189	proopiomelanocortin		873	0.356	0.846	0.00011658	0.02		1.0	2	0	2007.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	INTS8	55656	Q75QN2	integrator complex subunit 8		14	0.792	0.385	0.9439	0.02		0.5	2	0	2010.0	2014.0
+Attention deficit hyperactivity disorder	C1263846	PRS	5640		Prieto X-linked mental retardation syndrome		42	0.663	0.615		0.02		1.0	2	0	2016.0	2020.0
+Attention deficit hyperactivity disorder	C1263846	NDRG2	57447	Q9UN36	NDRG family member 2	Enzyme	156	0.518	0.692	2.2044e-05	0.02		1.0	2	1	2017.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	BCHE	590	P06276	butyrylcholinesterase		392	0.447	0.923	1.0643e-13	0.02		1.0	2	0	2013.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	RFC1	5981	P35251	replication factor C subunit 1		144	0.541	0.808	0.97305	0.02		1.0	2	0	2017.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	OPN1SW	611	P03999	opsin 1, short wave sensitive	G-protein coupled receptor	164	0.519	0.769	0.021134	0.02		1.0	2	0	2018.0	2020.0
+Attention deficit hyperactivity disorder	C1263846	TSPAN31	6302	Q12999	tetraspanin 31		112	0.556	0.654	0.21925	0.02		1.0	2	0	2015.0	2020.0
+Attention deficit hyperactivity disorder	C1263846	ATXN1	6310	P54253	ataxin 1		218	0.534	0.769	0.97498	0.02		1.0	2	0	2011.0	2015.0
+Attention deficit hyperactivity disorder	C1263846	SLC2A3	6515	P11169	solute carrier family 2 member 3	Transporter	144	0.534	0.769	0.010333	0.02		1.0	2	0	2011.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	COA7	65260	Q96BR5	cytochrome c oxidase assembly factor 7 (putative)		25	0.792	0.231	0.059686	0.02		1.0	2	0	2017.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	SOD1	6647	P00441	superoxide dismutase 1	Enzyme	689	0.379	0.962	0.1773	0.02		1.0	2	0	2017.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	SPN	6693	P16150	sialophorin		101	0.563	0.692	0.014408	0.02		1.0	2	0	2010.0	2020.0
+Attention deficit hyperactivity disorder	C1263846	SYT1	6857	P21579	synaptotagmin 1	Transporter	460	0.412	0.846	0.60038	0.02		1.0	2	2	2017.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	TAL1	6886	P17542	TAL bHLH transcription factor 1, erythroid differentiation factor	Transcription factor	202	0.505	0.731	0.5659	0.02		1.0	2	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	TERC	7012		telomerase RNA component		296	0.471	0.846		0.02		0.5	2	0	2002.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	TERF1	7013	P54274	telomeric repeat binding factor 1		102	0.563	0.692	0.90655	0.02		1.0	2	0	2016.0	2020.0
+Attention deficit hyperactivity disorder	C1263846	TPO	7173	P07202	thyroid peroxidase	Enzyme	306	0.455	0.846	1.8182e-21	0.02		0.5	2	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	TRH	7200	P20396	thyrotropin releasing hormone		230	0.519	0.846	0.00089084	0.02		1.0	2	0	2016.0	2020.0
+Attention deficit hyperactivity disorder	C1263846	C4B	721	P0C0L4;P0C0L5	complement C4B (Chido blood group)	Enzyme modulator	66	0.603	0.808	0.83464	0.02		1.0	2	0	1995.0	1997.0
+Attention deficit hyperactivity disorder	C1263846	CYBC1	79415	Q9BQA9	cytochrome b-245 chaperone 1		28	0.736	0.462	0.0006032	0.02		1.0	2	0	2018.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	SYN3	8224	O14994	synapsin III	Cellular structure	38	0.686	0.462	0.0018871	0.02		0.5	2	0	2007.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	DTNBP1	84062	Q96EV8	dystrobrevin binding protein 1		93	0.588	0.615	6.8375e-06	0.02		1.0	2	0	2010.0	2012.0
+Attention deficit hyperactivity disorder	C1263846	GNPAT	8443	O15228	glyceronephosphate O-acyltransferase		44	0.663	0.462	0.30403	0.02		1.0	2	0	2006.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	EBPL	84650	Q9BY08	EBP like	Enzyme	76	0.615	0.577	7.8199e-05	0.02		1.0	2	0	2008.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	CAT	847	P04040	catalase	Enzyme	794	0.359	0.962	1.6263e-10	0.02		1.0	2	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	PER2	8864	O15055	period circadian regulator 2	Transcription factor	238	0.488	0.846	0.7148	0.02		1.0	2	0	2012.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	DCLK1	9201	O15075	doublecortin like kinase 1	Kinase	123	0.545	0.615	0.99964	0.02		1.0	2	1	2012.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	BAG3	9531	O95817	BAG cochaperone 3		223	0.498	0.846	0.61738	0.02		1.0	2	0	2018.0	2019.0
+Child attention deficit disorder	C0004269	LOC102723407	102723407		immunoglobulin heavy variable 4-38-2-like		159	0.514	0.769		0.01		1.0	1	0	2007.0	2007.0
+Child attention deficit disorder	C0004269	LOC102724971	102724971		putative V-set and immunoglobulin domain-containing-like protein IGHV4OR15-8		139	0.527	0.769		0.01		1.0	1	0	2007.0	2007.0
+Child attention deficit disorder	C0004269	LOC105379528	105379528		uncharacterized LOC105379528		55	0.617	0.615		0.01		1.0	1	0	2007.0	2007.0
+Child attention deficit disorder	C0004269	CSF2	1437	P04141	colony stimulating factor 2	Signaling	1028	0.33	0.962	0.83468	0.01		1.0	1	0	2019.0	2019.0
+Child attention deficit disorder	C0004269	C9orf72	203228	Q96LT7	C9orf72-SMCR8 complex subunit		258	0.496	0.769	1.0647e-06	0.01		1.0	1	0	2018.0	2018.0
+Child attention deficit disorder	C0004269	AKT1	207	P31749	AKT serine/threonine kinase 1	Kinase	1250	0.311	0.962	0.9759	0.01		1.0	1	0	2009.0	2009.0
+Child attention deficit disorder	C0004269	SMUG1	23583	Q53HV7	single-strand-selective monofunctional uracil-DNA glycosylase 1		1034	0.322	0.923	0.00045154	0.01		1.0	1	0	2017.0	2017.0
+Child attention deficit disorder	C0004269	IGHV3OR16-7	28309		immunoglobulin heavy variable 3/OR16-7 (pseudogene)		98	0.566	0.654		0.01		1.0	1	0	2007.0	2007.0
+Child attention deficit disorder	C0004269	IGHV3-69-1	28402		immunoglobulin heavy variable 3-69-1 (pseudogene)		102	0.561	0.654		0.01		1.0	1	0	2007.0	2007.0
+Child attention deficit disorder	C0004269	APOE	348	P02649	apolipoprotein E		1049	0.338	0.962	0.0018685	0.01		1.0	1	0	2003.0	2003.0
+Child attention deficit disorder	C0004269	IL2	3558	P60568	interleukin 2		950	0.336	0.885	0.47968	0.01		1.0	1	0	2000.0	2000.0
+Child attention deficit disorder	C0004269	INS	3630	P01308	insulin		405	0.445	0.923	0.30091	0.01		1.0	1	0	2003.0	2003.0
+Child attention deficit disorder	C0004269	ITPA	3704	Q9BY32	inosine triphosphatase	Enzyme	77	0.604	0.5	1.0144e-07	0.01		1.0	1	0	2019.0	2019.0
+Child attention deficit disorder	C0004269	LAIR1	3903	Q6GTX8	leukocyte associated immunoglobulin like receptor 1	Receptor	89	0.569	0.692	3.2563e-07	0.01		1.0	1	0	2007.0	2007.0
+Child attention deficit disorder	C0004269	LOC390714	390714		immunoglobulin heavy chain variable region		55	0.617	0.615		0.01		1.0	1	0	2007.0	2007.0
+Child attention deficit disorder	C0004269	LAMC2	3918	Q13753	laminin subunit gamma 2	Enzyme modulator	602	0.389	0.923	2.8791e-12	0.01		1.0	1	0	2019.0	2019.0
+Child attention deficit disorder	C0004269	MECP2	4204	P51608	methyl-CpG binding protein 2	Epigenetic regulator	664	0.414	0.846	0.89382	0.01		1.0	1	0	2009.0	2009.0
+Child attention deficit disorder	C0004269	SERPINA1	5265	P01009	serpin family A member 1	Enzyme modulator	482	0.41	0.923	6.8497e-08	0.01		1.0	1	0	2011.0	2011.0
+Child attention deficit disorder	C0004269	PIK3CA	5290	P42336	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha	Kinase	1511	0.292	0.923	1.0	0.01		1.0	1	0	2009.0	2009.0
+Child attention deficit disorder	C0004269	PIK3CB	5291	P42338	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta	Kinase	1083	0.322	0.885	0.99964	0.01		1.0	1	0	2009.0	2009.0
+Child attention deficit disorder	C0004269	PIK3CD	5293	O00329	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta	Kinase	1119	0.319	0.885	0.99999	0.01		1.0	1	0	2009.0	2009.0
+Child attention deficit disorder	C0004269	PIK3CG	5294	P48736	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma	Kinase	1101	0.32	0.885	1.4076e-06	0.01		1.0	1	0	2009.0	2009.0
+Child attention deficit disorder	C0004269	ZMYM2	7750	Q9UBW7	zinc finger MYM-type containing 2	Enzyme modulator	77	0.599	0.654	0.66648	0.01		1.0	1	0	2003.0	2003.0
+Child attention deficit disorder	C0004269	NTPCR	84284	Q9BSD7	nucleoside-triphosphatase, cancer-related	Enzyme	8	0.805	0.115	0.0025124	0.01		1.0	1	0	2019.0	2019.0
+Child attention deficit disorder	C0004269	CD38	952	P28907	CD38 molecule	Enzyme	473	0.407	0.885	2.3129e-06	0.01		1.0	1	0	2007.0	2007.0
+Attention Deficit Disorder	C0041671	RIDA	10247	P52758	reactive intermediate imine deaminase A homolog		72	0.606	0.769	0.067892	0.01		1.0	1	0	1999.0	1999.0
+Attention Deficit Disorder	C0041671	LOC102723407	102723407		immunoglobulin heavy variable 4-38-2-like		159	0.514	0.769		0.01		1.0	1	0	2007.0	2007.0
+Attention Deficit Disorder	C0041671	LOC102724971	102724971		putative V-set and immunoglobulin domain-containing-like protein IGHV4OR15-8		139	0.527	0.769		0.01		1.0	1	0	2007.0	2007.0
+Attention Deficit Disorder	C0041671	CACNG2	10369	Q9Y698	calcium voltage-gated channel auxiliary subunit gamma 2	Ion channel	24	0.729	0.385	0.92315	0.01		1.0	1	0	2013.0	2013.0
+Attention Deficit Disorder	C0041671	SLC9A6	10479	Q92581	solute carrier family 9 member A6	Transporter	210	0.516	0.846	0.99833	0.01		1.0	1	0	2018.0	2018.0
+Attention Deficit Disorder	C0041671	LOC105379528	105379528		uncharacterized LOC105379528		55	0.617	0.615		0.01		1.0	1	0	2007.0	2007.0
+Attention Deficit Disorder	C0041671	NRG3	10718	P56975	neuregulin 3	Signaling	43	0.67	0.615	0.10947	0.01		1.0	1	0	2013.0	2013.0
+Attention Deficit Disorder	C0041671	CHRNA7	1139	P36544;Q494W8	cholinergic receptor nicotinic alpha 7 subunit	Ion channel	172	0.532	0.654	0.00041549	0.01		1.0	1	0	2017.0	2017.0
+Attention Deficit Disorder	C0041671	BTBD9	114781	Q96Q07	BTB domain containing 9		27	0.691	0.423	7.0655e-09	0.01		1.0	1	1	2009.0	2009.0
+Attention Deficit Disorder	C0041671	THEM4	117145	Q5T1C6	thioesterase superfamily member 4		33	0.674	0.462	3.8919e-07	0.01		1.0	1	0	2018.0	2018.0
+Attention Deficit Disorder	C0041671	CLTA	1211	P09496	clathrin light chain A	Transporter	55	0.628	0.654	0.96319	0.01		1.0	1	0	2018.0	2018.0
+Attention Deficit Disorder	C0041671	BPIFA2	140683	Q96DR5	BPI fold containing family A member 2		80	0.608	0.808	8.0124e-07	0.01		1.0	1	0	1999.0	1999.0
+Attention Deficit Disorder	C0041671	CSF2	1437	P04141	colony stimulating factor 2	Signaling	1028	0.33	0.962	0.83468	0.01		1.0	1	0	2019.0	2019.0
+Attention Deficit Disorder	C0041671	ADRA2A	150	P08913	adrenoceptor alpha 2A	G-protein coupled receptor	102	0.578	0.615	0.00081816	0.01		1.0	1	1	2010.0	2010.0
+Attention Deficit Disorder	C0041671	DBH	1621	P09172	dopamine beta-hydroxylase		202	0.511	0.846	3.3352e-10	0.01		1.0	1	0	2006.0	2006.0
+Attention Deficit Disorder	C0041671	AGA	175	P20933	aspartylglucosaminidase	Enzyme	143	0.57	0.808	4.2802e-06	0.01		1.0	1	0	2018.0	2018.0
+Attention Deficit Disorder	C0041671	AGT	183	P01019	angiotensinogen	Enzyme modulator	765	0.367	0.923	4.9706e-08	0.01		1.0	1	0	2020.0	2020.0
+Attention Deficit Disorder	C0041671	NR0B1	190	P51843	nuclear receptor subfamily 0 group B member 1	Nuclear receptor	222	0.494	0.808	0.97025	0.01		1.0	1	0	2013.0	2013.0
+Attention Deficit Disorder	C0041671	C9orf72	203228	Q96LT7	C9orf72-SMCR8 complex subunit		258	0.496	0.769	1.0647e-06	0.01		1.0	1	0	2018.0	2018.0
+Attention Deficit Disorder	C0041671	AKT1	207	P31749	AKT serine/threonine kinase 1	Kinase	1250	0.311	0.962	0.9759	0.01		1.0	1	0	2009.0	2009.0
+Attention Deficit Disorder	C0041671	OTP	23440	Q5XKR4	orthopedia homeobox		22	0.743	0.423	0.74039	0.01		1.0	1	0	2017.0	2017.0
+Attention Deficit Disorder	C0041671	SMUG1	23583	Q53HV7	single-strand-selective monofunctional uracil-DNA glycosylase 1		1034	0.322	0.923	0.00045154	0.01		1.0	1	0	2017.0	2017.0
+Attention Deficit Disorder	C0041671	GJB2	2706	P29033	gap junction protein beta 2	Cell-cell junction	392	0.441	0.846	6.562e-16	0.01		1.0	1	0	2006.0	2006.0
+Attention Deficit Disorder	C0041671	DISC1	27185	Q9NRI5	DISC1 scaffold protein		136	0.548	0.769	1.6756e-06	0.01		1.0	1	0	2006.0	2006.0
+Attention Deficit Disorder	C0041671	IGHV3OR16-7	28309		immunoglobulin heavy variable 3/OR16-7 (pseudogene)		98	0.566	0.654		0.01		1.0	1	0	2007.0	2007.0
+Attention Deficit Disorder	C0041671	IGHV3-69-1	28402		immunoglobulin heavy variable 3-69-1 (pseudogene)		102	0.561	0.654		0.01		1.0	1	0	2007.0	2007.0
+Attention Deficit Disorder	C0041671	SLC9A9	285195	Q8IVB4	solute carrier family 9 member A9	Transporter	44	0.656	0.577	5.3311e-12	0.01		1.0	1	0	2018.0	2018.0
+Attention Deficit Disorder	C0041671	GUCY2C	2984	P25092	guanylate cyclase 2C	Kinase	88	0.599	0.577	1.3919e-30	0.01		1.0	1	0	2014.0	2014.0
+Attention Deficit Disorder	C0041671	GUCY2D	3000	Q02846	guanylate cyclase 2D, retinal	Kinase	121	0.57	0.769	6.4574e-10	0.01		1.0	1	0	2018.0	2018.0
+Attention Deficit Disorder	C0041671	HCRT	3060	O43612	hypocretin neuropeptide precursor		237	0.5	0.808	0.028774	0.01		1.0	1	0	2019.0	2019.0
+Attention Deficit Disorder	C0041671	NT5C	30833	Q8TCD5	5', 3'-nucleotidase, cytosolic		25	0.729	0.231	0.0027292	0.01		1.0	1	0	2018.0	2018.0
+Attention Deficit Disorder	C0041671	HPRT1	3251	P00492	hypoxanthine phosphoribosyltransferase 1	Enzyme	210	0.5	0.808	0.93728	0.01		1.0	1	0	2017.0	2017.0
+Attention Deficit Disorder	C0041671	IFNG	3458	P01579	interferon gamma		1519	0.288	0.962	0.47156	0.01		1.0	1	0	2016.0	2016.0
+Attention Deficit Disorder	C0041671	APP	351	P05067	amyloid beta precursor protein	Enzyme modulator	485	0.422	0.846	0.046544	0.01		1.0	1	0	2011.0	2011.0
+Attention Deficit Disorder	C0041671	IL2	3558	P60568	interleukin 2		950	0.336	0.885	0.47968	0.01		1.0	1	0	2000.0	2000.0
+Attention Deficit Disorder	C0041671	IL6	3569	P05231	interleukin 6		2367	0.248	0.962	0.31536	0.01		1.0	1	0	2018.0	2018.0
+Attention Deficit Disorder	C0041671	INS	3630	P01308	insulin		405	0.445	0.923	0.30091	0.01		1.0	1	0	2003.0	2003.0
+Attention Deficit Disorder	C0041671	ITPA	3704	Q9BY32	inosine triphosphatase	Enzyme	77	0.604	0.5	1.0144e-07	0.01		1.0	1	0	2019.0	2019.0
+Attention Deficit Disorder	C0041671	LAIR1	3903	Q6GTX8	leukocyte associated immunoglobulin like receptor 1	Receptor	89	0.569	0.692	3.2563e-07	0.01		1.0	1	0	2007.0	2007.0
+Attention Deficit Disorder	C0041671	LOC390714	390714		immunoglobulin heavy chain variable region		55	0.617	0.615		0.01		1.0	1	0	2007.0	2007.0
+Attention Deficit Disorder	C0041671	LAMC2	3918	Q13753	laminin subunit gamma 2	Enzyme modulator	602	0.389	0.923	2.8791e-12	0.01		1.0	1	0	2019.0	2019.0
+Attention Deficit Disorder	C0041671	MIR142	406934		microRNA 142		220	0.48	0.846		0.01		1.0	1	0	2019.0	2019.0
+Attention Deficit Disorder	C0041671	MIR34B	407041		microRNA 34b		165	0.509	0.808		0.01		1.0	1	0	2016.0	2016.0
+Attention Deficit Disorder	C0041671	MIR34C	407042		microRNA 34c		131	0.541	0.885		0.01		1.0	1	0	2016.0	2016.0
+Attention Deficit Disorder	C0041671	MSMB	4477	P08118	microseminoprotein beta	Signaling	195	0.498	0.846	0.016199	0.01		1.0	1	0	1999.0	1999.0
+Attention Deficit Disorder	C0041671	NF1	4763	P21359	neurofibromin 1	Enzyme modulator	380	0.44	0.885	0.90175	0.01		1.0	1	0	2012.0	2012.0
+Attention Deficit Disorder	C0041671	NTF3	4908	P20783	neurotrophin 3	Signaling	170	0.519	0.808	0.93201	0.01		1.0	1	0	2010.0	2010.0
+Attention Deficit Disorder	C0041671	MIR378A	494327		microRNA 378a		127	0.532	0.808		0.01		1.0	1	0	2019.0	2019.0
+Attention Deficit Disorder	C0041671	SERPINA1	5265	P01009	serpin family A member 1	Enzyme modulator	482	0.41	0.923	6.8497e-08	0.01		1.0	1	0	2011.0	2011.0
+Attention Deficit Disorder	C0041671	PIK3CA	5290	P42336	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha	Kinase	1511	0.292	0.923	1.0	0.01		1.0	1	0	2009.0	2009.0
+Attention Deficit Disorder	C0041671	PIK3CB	5291	P42338	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta	Kinase	1083	0.322	0.885	0.99964	0.01		1.0	1	0	2009.0	2009.0
+Attention Deficit Disorder	C0041671	PIK3CD	5293	O00329	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta	Kinase	1119	0.319	0.885	0.99999	0.01		1.0	1	0	2009.0	2009.0
+Attention Deficit Disorder	C0041671	PIK3CG	5294	P48736	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma	Kinase	1101	0.32	0.885	1.4076e-06	0.01		1.0	1	0	2009.0	2009.0
+Attention Deficit Disorder	C0041671	POMC	5443	P01189	proopiomelanocortin		873	0.356	0.846	0.00011658	0.01		1.0	1	0	2017.0	2017.0
+Attention Deficit Disorder	C0041671	PSPN	5623	O60542	persephin	Signaling	70	0.608	0.769	0.00011172	0.01		1.0	1	0	1999.0	1999.0
+Attention Deficit Disorder	C0041671	DNAJC12	56521	Q9UKB3	DnaJ heat shock protein family (Hsp40) member C12		35	0.705	0.423	2.0723e-06	0.01		1.0	1	0	2017.0	2017.0
+Attention Deficit Disorder	C0041671	PSPH	5723	P78330	phosphoserine phosphatase	Enzyme	114	0.57	0.808	0.00096703	0.01		1.0	1	0	1999.0	1999.0
+Attention Deficit Disorder	C0041671	NDRG2	57447	Q9UN36	NDRG family member 2	Enzyme	156	0.518	0.692	2.2044e-05	0.01		1.0	1	0	2017.0	2017.0
+Attention Deficit Disorder	C0041671	KIDINS220	57498	Q9ULH0	kinase D interacting substrate 220		145	0.534	0.769	0.073562	0.01		1.0	1	0	2016.0	2016.0
+Attention Deficit Disorder	C0041671	NUFIP2	57532	Q7Z417	nuclear FMR1 interacting protein 2		58	0.641	0.577	0.99891	0.01		1.0	1	0	2009.0	2009.0
+Attention Deficit Disorder	C0041671	PTPRC	5788	P08575	protein tyrosine phosphatase receptor type C	Enzyme	366	0.435	0.808	1.0	0.01		1.0	1	0	2018.0	2018.0
+Attention Deficit Disorder	C0041671	PTPRG	5793	P23470	protein tyrosine phosphatase receptor type G	Enzyme	70	0.619	0.731	5.0736e-06	0.01		1.0	1	0	2016.0	2016.0
+Attention Deficit Disorder	C0041671	BCHE	590	P06276	butyrylcholinesterase		392	0.447	0.923	1.0643e-13	0.01		1.0	1	0	2017.0	2017.0
+Attention Deficit Disorder	C0041671	REG1A	5967	P05451	regenerating family member 1 alpha		264	0.467	0.846	1.3499e-05	0.01		1.0	1	0	1999.0	1999.0
+Attention Deficit Disorder	C0041671	CCL11	6356	P51671	C-C motif chemokine ligand 11	Signaling	250	0.473	0.885	0.010211	0.01		1.0	1	0	2019.0	2019.0
+Attention Deficit Disorder	C0041671	SLC6A8	6535	P48029	solute carrier family 6 member 8	Transporter	274	0.476	0.846	0.99778	0.01		1.0	1	0	2010.0	2010.0
+Attention Deficit Disorder	C0041671	STXBP3	6814	O00186	syntaxin binding protein 3	Transporter	69	0.61	0.769	5.1597e-05	0.01		1.0	1	0	1999.0	1999.0
+Attention Deficit Disorder	C0041671	THBS3	7059	P49746	thrombospondin 3		19	0.792	0.269	2.5795e-21	0.01		1.0	1	0	2019.0	2019.0
+Attention Deficit Disorder	C0041671	TPO	7173	P07202	thyroid peroxidase	Enzyme	306	0.455	0.846	1.8182e-21	0.01		1.0	1	0	2018.0	2018.0
+Attention Deficit Disorder	C0041671	CACNA1C	775	Q13936	calcium voltage-gated channel subunit alpha1 C	Ion channel	225	0.51	0.846	1.0	0.01		1.0	1	0	2011.0	2011.0
+Attention Deficit Disorder	C0041671	ZMYM2	7750	Q9UBW7	zinc finger MYM-type containing 2	Enzyme modulator	77	0.599	0.654	0.66648	0.01		1.0	1	0	2003.0	2003.0
+Attention Deficit Disorder	C0041671	NTPCR	84284	Q9BSD7	nucleoside-triphosphatase, cancer-related	Enzyme	8	0.805	0.115	0.0025124	0.01		1.0	1	0	2019.0	2019.0
+Attention Deficit Disorder	C0041671	GNPAT	8443	O15228	glyceronephosphate O-acyltransferase		44	0.663	0.462	0.30403	0.01		1.0	1	0	2006.0	2006.0
+Attention Deficit Disorder	C0041671	BHLHE40	8553	O14503	basic helix-loop-helix family member e40	Transcription factor	113	0.544	0.731	0.99444	0.01		1.0	1	0	2017.0	2017.0
+Attention Deficit Disorder	C0041671	SLC39A13	91252	Q96H72	solute carrier family 39 member 13	Transporter	67	0.666	0.538	0.0025092	0.01		1.0	1	0	2016.0	2016.0
+Attention Deficit Disorder	C0041671	ZNF804A	91752	Q7Z570	zinc finger protein 804A		53	0.647	0.654	0.0055255	0.01		1.0	1	1	2019.0	2019.0
+Attention Deficit Disorder	C0041671	TGM5	9333	O43548	transglutaminase 5	Enzyme	48	0.656	0.615	2.4183e-25	0.01		1.0	1	0	2016.0	2016.0
+Attention Deficit Disorder	C0041671	CD38	952	P28907	CD38 molecule	Enzyme	473	0.407	0.885	2.3129e-06	0.01		1.0	1	0	2007.0	2007.0
+Attention Deficit Disorder	C0041671	CARTPT	9607	Q16568	CART prepropeptide		115	0.576	0.692	0.093729	0.01		1.0	1	0	2008.0	2008.0
+Attention-Deficit/Hyperactivity Disorder, Predominantly Inattentive Type	C0339002	BTBD9	114781	Q96Q07	BTB domain containing 9		27	0.691	0.423	7.0655e-09	0.01		1.0	1	1	2009.0	2009.0
+Attention-Deficit/Hyperactivity Disorder, Predominantly Inattentive Type	C0339002	DRD4	1815	P21917	dopamine receptor D4	G-protein coupled receptor	189	0.517	0.577	9.3362e-09	0.01		1.0	1	0	2016.0	2016.0
+Attention-Deficit/Hyperactivity Disorder, Predominantly Inattentive Type	C0339002	NR0B1	190	P51843	nuclear receptor subfamily 0 group B member 1	Nuclear receptor	222	0.494	0.808	0.97025	0.01		1.0	1	0	2013.0	2013.0
+Attention-Deficit/Hyperactivity Disorder, Predominantly Inattentive Type	C0339002	OTP	23440	Q5XKR4	orthopedia homeobox		22	0.743	0.423	0.74039	0.01		1.0	1	0	2017.0	2017.0
+Attention-Deficit/Hyperactivity Disorder, Predominantly Inattentive Type	C0339002	GJB2	2706	P29033	gap junction protein beta 2	Cell-cell junction	392	0.441	0.846	6.562e-16	0.01		1.0	1	0	2006.0	2006.0
+Attention-Deficit/Hyperactivity Disorder, Predominantly Inattentive Type	C0339002	KIDINS220	57498	Q9ULH0	kinase D interacting substrate 220		145	0.534	0.769	0.073562	0.01		1.0	1	0	2016.0	2016.0
+Attention-Deficit/Hyperactivity Disorder, Predominantly Inattentive Type	C0339002	PTPRG	5793	P23470	protein tyrosine phosphatase receptor type G	Enzyme	70	0.619	0.731	5.0736e-06	0.01		1.0	1	0	2016.0	2016.0
+Attention-Deficit/Hyperactivity Disorder, Predominantly Inattentive Type	C0339002	SLC6A8	6535	P48029	solute carrier family 6 member 8	Transporter	274	0.476	0.846	0.99778	0.01		1.0	1	0	2010.0	2010.0
+Attention-Deficit/Hyperactivity Disorder, Predominantly Inattentive Type	C0339002	SLC39A13	91252	Q96H72	solute carrier family 39 member 13	Transporter	67	0.666	0.538	0.0025092	0.01		1.0	1	0	2016.0	2016.0
+Attention-Deficit/Hyperactivity Disorder, Predominantly Inattentive Type	C0339002	TGM5	9333	O43548	transglutaminase 5	Enzyme	48	0.656	0.615	2.4183e-25	0.01		1.0	1	0	2016.0	2016.0
+Attention-Deficit/Hyperactivity Disorder, Predominantly Inattentive Type	C0339002	CARTPT	9607	Q16568	CART prepropeptide		115	0.576	0.692	0.093729	0.01		1.0	1	0	2008.0	2008.0
+Adult attention deficit hyperactivity disorder	C0865424	CDH13	1012	P55290	cadherin 13		205	0.501	0.846	0.0007058	0.01		1.0	1	0	2013.0	2013.0
+Adult attention deficit hyperactivity disorder	C0865424	TPH2	121278	Q8IWU9	tryptophan hydroxylase 2		137	0.546	0.654	2.5364e-07	0.01		1.0	1	0	2010.0	2010.0
+Adult attention deficit hyperactivity disorder	C0865424	DGKH	160851	Q86XP1	diacylglycerol kinase eta	Kinase	39	0.678	0.346	0.026429	0.01		1.0	1	2	2017.0	2017.0
+Adult attention deficit hyperactivity disorder	C0865424	DRD3	1814	P35462	dopamine receptor D3	G-protein coupled receptor	199	0.529	0.692	0.0023694	0.01		1.0	1	1	2002.0	2002.0
+Adult attention deficit hyperactivity disorder	C0865424	DRD4	1815	P21917	dopamine receptor D4	G-protein coupled receptor	189	0.517	0.577	9.3362e-09	0.01		1.0	1	0	2000.0	2000.0
+Adult attention deficit hyperactivity disorder	C0865424	DRD5	1816	P21918	dopamine receptor D5	G-protein coupled receptor	73	0.603	0.423	1.348e-16	0.01		1.0	1	0	2008.0	2008.0
+Adult attention deficit hyperactivity disorder	C0865424	ADGRL3	23284	Q9HAR2	adhesion G protein-coupled receptor L3	G-protein coupled receptor	25	0.729	0.385	1.0	0.01		1.0	1	1	2019.0	2019.0
+Adult attention deficit hyperactivity disorder	C0865424	HTR1A	3350	P08908	5-hydroxytryptamine receptor 1A	G-protein coupled receptor	229	0.522	0.846	0.19956	0.01		1.0	1	1	2010.0	2010.0
+Adult attention deficit hyperactivity disorder	C0865424	KRT7	3855	P08729	keratin 7		287	0.463	0.808	3.0861e-12	0.01		1.0	1	0	2018.0	2018.0
+Adult attention deficit hyperactivity disorder	C0865424	SCLY	51540	Q96I15	selenocysteine lyase	Enzyme	161	0.53	0.731	2.3341e-09	0.01		1.0	1	0	2018.0	2018.0
+Adult attention deficit hyperactivity disorder	C0865424	BDNF	627	P23560	brain derived neurotrophic factor	Signaling	992	0.345	0.923	0.65626	0.01		1.0	1	0	2008.0	2008.0
+Adult attention deficit hyperactivity disorder	C0865424	SLC6A2	6530	P23975	solute carrier family 6 member 2	Transporter	238	0.49	0.846	0.081524	0.01		1.0	1	0	2019.0	2019.0
+Adult attention deficit hyperactivity disorder	C0865424	SLC6A3	6531	Q01959	solute carrier family 6 member 3	Transporter	373	0.453	0.885	0.99758	0.01		1.0	1	0	2016.0	2016.0
+Adult attention deficit hyperactivity disorder	C0865424	SLC6A4	6532	P31645	solute carrier family 6 member 4	Transporter	440	0.429	0.808	0.24602	0.01		1.0	1	0	2010.0	2010.0
+Adult attention deficit hyperactivity disorder	C0865424	SNAP25	6616	P60880	synaptosome associated protein 25	Transporter	283	0.489	0.808	0.98653	0.01		1.0	1	0	2016.0	2016.0
+Adult attention deficit hyperactivity disorder	C0865424	TAL1	6886	P17542	TAL bHLH transcription factor 1, erythroid differentiation factor	Transcription factor	202	0.505	0.731	0.5659	0.01		1.0	1	0	2018.0	2018.0
+Adult attention deficit hyperactivity disorder	C0865424	SYN3	8224	O14994	synapsin III	Cellular structure	38	0.686	0.462	0.0018871	0.01		1.0	1	0	2013.0	2013.0
+Adult attention deficit hyperactivity disorder	C0865424	LIN7A	8825	O14910	lin-7 homolog A, crumbs cell polarity complex component	Cell-cell junction	24	0.736	0.385	1.1286e-07	0.01		1.0	1	0	2008.0	2008.0
+Adult attention deficit hyperactivity disorder	C0865424	ADIPOQ	9370	Q15848	adiponectin, C1Q and collagen domain containing		679	0.376	0.885	4.6434e-09	0.01		1.0	1	0	2014.0	2014.0
+Adult attention deficit hyperactivity disorder	C0865424	CLOCK	9575	O15516	clock circadian regulator		309	0.463	0.885	0.99957	0.01		1.0	1	0	2008.0	2008.0
+Attention deficit hyperactivity disorder	C1263846	BCL2L10	10017	Q9HD36	BCL2 like 10	Signaling	45	0.65	0.654	0.01076	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	MIR3171	100422830		microRNA 3171		2	0.931	0.115		0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	LINC01672	100505887		long intergenic non-protein coding RNA 1672		268	0.462	0.846		0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	LUCAT1	100505994		lung cancer associated transcript 1		60	0.612	0.577		0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	TMX2-CTNND1	100528016		TMX2-CTNND1 readthrough (NMD candidate)		138	0.538	0.769		0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	PSC	100653366		Cholangitis, primary sclerosing		67	0.603	0.731		0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	MIR5692B	100847013		microRNA 5692b		1	1.0	0.038		0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	CDH11	1009	P55287	cadherin 11		203	0.512	0.808	0.9999	0.01		1.0	1	0	2014.0	2014.0
+Attention deficit hyperactivity disorder	C1263846	RASGRP1	10125	O95267	RAS guanyl releasing protein 1	Enzyme modulator	110	0.572	0.731	0.96554	0.01		1.0	1	0	2016.0	2016.0
+Attention deficit hyperactivity disorder	C1263846	TSHZ1	10194	Q6ZSZ6	teashirt zinc finger homeobox 1	Transcription factor	99	0.569	0.731	0.9973	0.01		1.0	1	0	2012.0	2012.0
+Attention deficit hyperactivity disorder	C1263846	PSMD14	10213	O00487	proteasome 26S subunit, non-ATPase 14	Enzyme	29	0.716	0.308	0.97662	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	GPHN	10243	Q9NQX3	gephyrin		104	0.608	0.538	0.99998	0.01		1.0	1	0	2015.0	2015.0
+Attention deficit hyperactivity disorder	C1263846	RIDA	10247	P52758	reactive intermediate imine deaminase A homolog		72	0.606	0.769	0.067892	0.01		1.0	1	0	1999.0	1999.0
+Attention deficit hyperactivity disorder	C1263846	ZFPM2-AS1	102723356		ZFPM2 antisense RNA 1		32	0.736	0.385		0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	CACNG2	10369	Q9Y698	calcium voltage-gated channel auxiliary subunit gamma 2	Ion channel	24	0.729	0.385	0.92315	0.01		1.0	1	0	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	CIB1	10519	Q99828	calcium and integrin binding 1		275	0.458	0.769	0.00032612	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	THRA1/BTR	105371807		uncharacterized LOC105371807		29	0.686	0.654		0.01		1.0	1	0	2001.0	2001.0
+Attention deficit hyperactivity disorder	C1263846	LOC105379528	105379528		uncharacterized LOC105379528		55	0.617	0.615		0.01		1.0	1	0	2007.0	2007.0
+Attention deficit hyperactivity disorder	C1263846	SH2B2	10603	O14492	SH2B adaptor protein 2		59	0.623	0.731	1.4932e-05	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	NRG3	10718	P56975	neuregulin 3	Signaling	43	0.67	0.615	0.10947	0.01		1.0	1	0	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	WASF3	10810	Q9UPY6	WASP family member 3	Cellular structure	83	0.595	0.769	0.54018	0.01		1.0	1	0	2020.0	2020.0
+Attention deficit hyperactivity disorder	C1263846	PDE10A	10846	Q9Y233	phosphodiesterase 10A		97	0.619	0.615	0.99986	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	RAB40B	10966	Q12829	RAB40B, member RAS oncogene family		99	0.563	0.731	8.6559e-06	0.01		1.0	1	0	2005.0	2005.0
+Attention deficit hyperactivity disorder	C1263846	TRIM31	11074	Q9BZY9	tripartite motif containing 31		61	0.626	0.577	4.3248e-06	0.01		1.0	1	0	2011.0	2011.0
+Attention deficit hyperactivity disorder	C1263846	STIN2-VNTR	110806307		serotonin transporter intronic VNTR enhancer		55	0.636	0.538		0.01		1.0	1	0	2005.0	2005.0
+Attention deficit hyperactivity disorder	C1263846	CORO1A	11151	P31146	coronin 1A	Cellular structure	102	0.564	0.692	0.97024	0.01		1.0	1	0	2009.0	2009.0
+Attention deficit hyperactivity disorder	C1263846	NUDT3	11165	O95989	nudix hydrolase 3	Enzyme	10	0.861	0.269	0.42531	0.01		1.0	1	1	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	NISCH	11188	Q9Y2I1	nischarin	Enzyme modulator	49	0.656	0.577	0.99443	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	SEC23IP	11196	Q9Y6Y8	SEC23 interacting protein	Enzyme	4	0.931	0.115	1.9318e-05	0.01		1.0	1	0	2016.0	2016.0
+Attention deficit hyperactivity disorder	C1263846	HRH3	11255	Q9Y5N1	histamine receptor H3	G-protein coupled receptor	60	0.647	0.462	0.04081	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	PARK7	11315	Q99497	Parkinsonism associated deglycase	Enzyme	161	0.535	0.808	0.75335	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	CHRNB3	1142	Q05901	cholinergic receptor nicotinic beta 3 subunit	Ion channel	28	0.705	0.308	8.5898e-06	0.01		1.0	1	1	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	CHRNB4	1143	P30926	cholinergic receptor nicotinic beta 4 subunit	Ion channel	75	0.644	0.423	0.1427	0.01		1.0	1	0	2016.0	2016.0
+Attention deficit hyperactivity disorder	C1263846	XKR4	114786	Q5GH76	XK related 4		17	0.821	0.154	0.99912	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	H3P40	115482723		H3 histone pseudogene 40		175	0.506	0.846		0.01		1.0	1	0	2020.0	2020.0
+Attention deficit hyperactivity disorder	C1263846	THEM4	117145	Q5T1C6	thioesterase superfamily member 4		33	0.674	0.462	3.8919e-07	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	DCD	117159	P81605	dermcidin		64	0.619	0.654	0.00015781	0.01		1.0	1	0	2009.0	2009.0
+Attention deficit hyperactivity disorder	C1263846	CLTA	1211	P09496	clathrin light chain A	Transporter	55	0.628	0.654	0.96319	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	CNTFR	1271	P26992	ciliary neurotrophic factor receptor	Signaling	19	0.722	0.385	0.95549	0.01		1.0	1	0	2008.0	2008.0
+Attention deficit hyperactivity disorder	C1263846	CNTN1	1272	Q12860	contactin 1		81	0.599	0.577	0.15131	0.01		0.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	SYT2	127833	Q8N9I0	synaptotagmin 2	Transporter	94	0.647	0.538	0.98133	0.01		1.0	1	0	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	RBM45	129831	Q8IUH3	RNA binding motif protein 45		557	0.383	0.846	2.1132e-10	0.01		1.0	1	0	2001.0	2001.0
+Attention deficit hyperactivity disorder	C1263846	CORD1	1319		cone rod dystrophy 1 (autosomal dominant)		19	0.722	0.423		0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	ADM	133	P35318	adrenomedullin	Signaling	405	0.436	0.808	0.040831	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	CPT2	1376	P23786	carnitine palmitoyltransferase 2	Enzyme	187	0.542	0.769	4.598e-10	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	CREM	1390	Q03060	cAMP responsive element modulator		100	0.575	0.692	0.50878	0.01		1.0	1	0	2009.0	2009.0
+Attention deficit hyperactivity disorder	C1263846	BPIFA2	140683	Q96DR5	BPI fold containing family A member 2		80	0.608	0.808	8.0124e-07	0.01		1.0	1	0	1999.0	1999.0
+Attention deficit hyperactivity disorder	C1263846	CRY1	1407	Q16526	cryptochrome circadian regulator 1	Enzyme	91	0.585	0.769	1.662e-09	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	NRSN1	140767	Q8IZ57	neurensin 1		76	0.604	0.731	0.00030819	0.01		1.0	1	0	2009.0	2009.0
+Attention deficit hyperactivity disorder	C1263846	CSE1L	1434	P55060	chromosome segregation 1 like	Enzyme modulator	163	0.521	0.808	1.0	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	CSF2	1437	P04141	colony stimulating factor 2	Signaling	1028	0.33	0.962	0.83468	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	NCAN	1463	O14594	neurocan	Extracellular structure	44	0.67	0.5	0.068	0.01		1.0	1	0	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	ADRA1B	147	P35368	adrenoceptor alpha 1B	G-protein coupled receptor	55	0.686	0.5	0.13541	0.01		1.0	1	0	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	CTNND1	1500	O60716	catenin delta 1	Cellular structure	196	0.5	0.808	0.99999	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	ADRB2	154	P07550	adrenoceptor beta 2	G-protein coupled receptor	387	0.442	0.923	0.52545	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	FEZF1-AS1	154860		FEZF1 antisense RNA 1		45	0.644	0.615		0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	CYP2B6	1555	P20813	cytochrome P450 family 2 subfamily B member 6		388	0.428	0.846	1.9303e-10	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	CYP2D7	1564	A0A087X1C5	cytochrome P450 family 2 subfamily D member 7 (gene/pseudogene)		42	0.659	0.577		0.01		1.0	1	0	2003.0	2003.0
+Attention deficit hyperactivity disorder	C1263846	CYP3A4	1576	P08684	cytochrome P450 family 3 subfamily A member 4	Enzyme	291	0.462	0.885	5.7979e-11	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	DGKH	160851	Q86XP1	diacylglycerol kinase eta	Kinase	39	0.678	0.346	0.026429	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	DAPK3	1613	O43293	death associated protein kinase 3	Kinase	72	0.612	0.654	0.0065541	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	BRINP1	1620	O60477	BMP/retinoic acid inducible neural specific 1		64	0.615	0.615	0.99251	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	OXER1	165140	Q8TDS5	oxoeicosanoid receptor 1	G-protein coupled receptor	169	0.529	0.923	7.3192e-08	0.01		1.0	1	0	2014.0	2014.0
+Attention deficit hyperactivity disorder	C1263846	DLG2	1740	Q15700	discs large MAGUK scaffold protein 2	Receptor	44	0.67	0.577	0.70796	0.01		1.0	1	0	2016.0	2016.0
+Attention deficit hyperactivity disorder	C1263846	DLX4	1748	Q92988	distal-less homeobox 4	Transcription factor	105	0.585	0.654	0.016921	0.01		1.0	1	0	2006.0	2006.0
+Attention deficit hyperactivity disorder	C1263846	AGA	175	P20933	aspartylglucosaminidase	Enzyme	143	0.57	0.808	4.2802e-06	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	DOCK3	1795	Q8IZD9	dedicator of cytokinesis 3		85	0.619	0.692	1.0	0.01		1.0	1	0	2003.0	2003.0
+Attention deficit hyperactivity disorder	C1263846	AGT	183	P01019	angiotensinogen	Enzyme modulator	765	0.367	0.923	4.9706e-08	0.01		1.0	1	0	2020.0	2020.0
+Attention deficit hyperactivity disorder	C1263846	EDA	1896	Q92838	ectodysplasin A		150	0.553	0.808	0.97391	0.01		1.0	1	0	2020.0	2020.0
+Attention deficit hyperactivity disorder	C1263846	NR0B1	190	P51843	nuclear receptor subfamily 0 group B member 1	Nuclear receptor	222	0.494	0.808	0.97025	0.01		1.0	1	0	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	EGF	1950	P01133	epidermal growth factor		774	0.357	0.923	8.5294e-17	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	PRXL2C	195827	Q7RTV5	peroxiredoxin like 2C		5	0.89	0.115	1.0063e-07	0.01		1.0	1	1	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	EIF4EBP1	1978	Q13541	eukaryotic translation initiation factor 4E binding protein 1	Nucleic acid binding	201	0.494	0.885	0.20762	0.01		1.0	1	0	2006.0	2006.0
+Attention deficit hyperactivity disorder	C1263846	C9orf72	203228	Q96LT7	C9orf72-SMCR8 complex subunit		258	0.496	0.769	1.0647e-06	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	EPHA5	2044	P54756	EPH receptor A5	Kinase	61	0.626	0.615	7.2877e-05	0.01		1.0	1	0	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	ERBB2	2064	P04626	erb-b2 receptor tyrosine kinase 2	Kinase	995	0.328	0.923	0.0059892	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	AKT1	207	P31749	AKT serine/threonine kinase 1	Kinase	1250	0.311	0.962	0.9759	0.01		1.0	1	0	2009.0	2009.0
+Attention deficit hyperactivity disorder	C1263846	ALB	213	P02768	albumin	Transporter	1198	0.317	0.962	0.64329	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	FAAH	2166	O00519	fatty acid amide hydrolase		177	0.545	0.692	4.4449e-11	0.01		1.0	1	1	2020.0	2020.0
+Attention deficit hyperactivity disorder	C1263846	ALDH2	217	P05091	aldehyde dehydrogenase 2 family member	Enzyme	337	0.457	0.885	3.3959e-10	0.01		1.0	1	0	2010.0	2010.0
+Attention deficit hyperactivity disorder	C1263846	FGF2	2247	P09038	fibroblast growth factor 2	Signaling	635	0.383	0.923	0.0184	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	FHIT	2272	P49789	fragile histidine triad diadenosine triphosphatase		337	0.444	0.846	0.0057055	0.01		1.0	1	1	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	FKBP5	2289	Q13451	FKBP prolyl isomerase 5	Enzyme	179	0.524	0.769	0.73393	0.01		1.0	1	5	2015.0	2015.0
+Attention deficit hyperactivity disorder	C1263846	TRIM32	22954	Q13049	tripartite motif containing 32		113	0.587	0.769	0.0016684	0.01		1.0	1	0	2011.0	2011.0
+Attention deficit hyperactivity disorder	C1263846	VWA8	23078	A3KMH1	von Willebrand factor A domain containing 8		12	0.769	0.231	8.4114e-70	0.01		1.0	1	1	2010.0	2010.0
+Attention deficit hyperactivity disorder	C1263846	CYFIP1	23191	Q7L576	cytoplasmic FMR1 interacting protein 1	Enzyme modulator	40	0.674	0.538	0.96816	0.01		0.0	1	1	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	RRS1	23212	Q15050	ribosome biogenesis regulator 1 homolog	Nucleic acid binding	42	0.656	0.5	0.17712	0.01		1.0	1	0	2008.0	2008.0
+Attention deficit hyperactivity disorder	C1263846	SYNM	23336	O15061	synemin		93	0.575	0.731	3.0339e-24	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	FN1	2335	P02751	fibronectin 1	Signaling	724	0.365	0.962	0.0014045	0.01		1.0	1	0	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	KCNH3	23416	Q9ULD8	potassium voltage-gated channel subfamily H member 3	Ion channel	6	0.89	0.269	0.99919	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	OTP	23440	Q5XKR4	orthopedia homeobox		22	0.743	0.423	0.74039	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	SMUG1	23583	Q53HV7	single-strand-selective monofunctional uracil-DNA glycosylase 1		1034	0.322	0.923	0.00045154	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	CADM1	23705	Q9BY67	cell adhesion molecule 1		205	0.491	0.769	0.66216	0.01		1.0	1	1	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	FRRS1L	23732	Q9P0K9	ferric chelate reductase 1 like		60	0.666	0.231	0.0014611	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	ABCA4	24	P78363	ATP binding cassette subfamily A member 4	Transporter	227	0.493	0.769	5.3499e-48	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	PRPF6	24148	O94906	pre-mRNA processing factor 6	Nucleic acid binding	76	0.621	0.538	0.0032101	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	GAST	2520	P01350	gastrin		236	0.485	0.808	0.0027394	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	FBXO33	254170	Q7Z6M2	F-box protein 33		2	0.931	0.115	0.99417	0.01		1.0	1	0	2015.0	2015.0
+Attention deficit hyperactivity disorder	C1263846	NPNT	255743	Q6UXI9	nephronectin		55	0.659	0.654	2.7295e-10	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	TPSG1	25823	Q9NRR2	tryptase gamma 1	Enzyme	53	0.638	0.5	7.5883e-15	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	GALR1	2587	P47211	galanin receptor 1	G-protein coupled receptor	44	0.656	0.5	0.00053174	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	GCH1	2643	P30793	GTP cyclohydrolase 1	Enzyme	254	0.511	0.846	0.90292	0.01		1.0	1	0	2015.0	2015.0
+Attention deficit hyperactivity disorder	C1263846	AGO1	26523	Q9UL18	argonaute RISC component 1		48	0.656	0.577	1.0	0.01		1.0	1	1	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	GFI1	2672	Q99684	growth factor independent 1 transcriptional repressor	Transcription factor	132	0.546	0.769	0.25492	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	AMH	268	P03971	anti-Mullerian hormone		242	0.476	0.846	3.3974e-12	0.01		0.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	AMPD1	270	P23109	adenosine monophosphate deaminase 1	Enzyme	106	0.573	0.692	1.9099e-21	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	CNTN6	27255	Q9UQ52	contactin 6	Receptor	36	0.678	0.462	9.0232e-31	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	ZNF544	27300	Q6NX49	zinc finger protein 544	Transcription factor	2	1.0	0.038	0.00099546	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	HTRA2	27429	O43464	HtrA serine peptidase 2		151	0.542	0.692	0.0035755	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	IGHV3OR16-7	28309		immunoglobulin heavy variable 3/OR16-7 (pseudogene)		98	0.566	0.654		0.01		1.0	1	0	2007.0	2007.0
+Attention deficit hyperactivity disorder	C1263846	PRTG	283659	Q2VWP7	protogenin		6	0.861	0.154	1.1959e-07	0.01		0.0	1	0	2008.0	2008.0
+Attention deficit hyperactivity disorder	C1263846	IGHV3-69-1	28402		immunoglobulin heavy variable 3-69-1 (pseudogene)		102	0.561	0.654		0.01		1.0	1	0	2007.0	2007.0
+Attention deficit hyperactivity disorder	C1263846	GPER1	2852	Q99527	G protein-coupled estrogen receptor 1	G-protein coupled receptor	180	0.505	0.731	0.57434	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	GRIA2	2891	P42262	glutamate ionotropic receptor AMPA type subunit 2	Ion channel	110	0.573	0.692	0.99916	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	GRIK5	2901	Q16478	glutamate ionotropic receptor kainate type subunit 5	Ion channel	9	0.792	0.231	0.99425	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	ZCCHC4	29063	Q9H5U6	zinc finger CCHC-type containing 4		3	0.931	0.115	2.1595e-10	0.01		1.0	1	0	2016.0	2016.0
+Attention deficit hyperactivity disorder	C1263846	GSK3B	2932	P49841	glycogen synthase kinase 3 beta	Kinase	393	0.43	0.846	0.95571	0.01		1.0	1	0	2012.0	2012.0
+Attention deficit hyperactivity disorder	C1263846	GYPA	2993	P02724	glycophorin A (MNS blood group)		136	0.538	0.885	0.0010811	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	PADI1	29943	Q9ULC6	peptidyl arginine deiminase 1		54	0.644	0.692	2.0388e-15	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	GUCY2D	3000	Q02846	guanylate cyclase 2D, retinal	Kinase	121	0.57	0.769	6.4574e-10	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	HFE	3077	Q30201	homeostatic iron regulator		415	0.436	0.846	2.5587e-08	0.01		1.0	1	0	2016.0	2016.0
+Attention deficit hyperactivity disorder	C1263846	HGF	3082	P14210	hepatocyte growth factor	Enzyme	671	0.374	0.885	0.99947	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	KCNIP1	30820	Q9NZI2	potassium voltage-gated channel interacting protein 1	Ion channel	21	0.716	0.5	0.0042091	0.01		1.0	1	1	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	NT5C	30833	Q8TCD5	5', 3'-nucleotidase, cytosolic		25	0.729	0.231	0.0027292	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	HK1	3098	P19367	hexokinase 1	Kinase	161	0.542	0.731	0.91459	0.01		1.0	1	0	2000.0	2000.0
+Attention deficit hyperactivity disorder	C1263846	ACACA	31	Q13085	acetyl-CoA carboxylase alpha		241	0.48	0.846	1.0	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	HP	3240	P00738	haptoglobin	Enzyme	464	0.412	0.885	1.736e-05	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	HPRT1	3251	P00492	hypoxanthine phosphoribosyltransferase 1	Enzyme	210	0.5	0.808	0.93728	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	HRC	3270	P23327	histidine rich calcium binding protein		48	0.663	0.577	9.9367e-09	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	HTR1D	3352	P28221	5-hydroxytryptamine receptor 1D	G-protein coupled receptor	26	0.716	0.308	0.00064061	0.01		1.0	1	0	2006.0	2006.0
+Attention deficit hyperactivity disorder	C1263846	HTR1E	3354	P28566	5-hydroxytryptamine receptor 1E	G-protein coupled receptor	9	0.805	0.192	0.29344	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	HTR3A	3359	P46098	5-hydroxytryptamine receptor 3A	Ion channel	75	0.608	0.538	1.7499e-10	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	HTR4	3360	Q13639	5-hydroxytryptamine receptor 4	G-protein coupled receptor	80	0.61	0.615	0.024701	0.01		1.0	1	0	2006.0	2006.0
+Attention deficit hyperactivity disorder	C1263846	HTR5A	3361	P47898	5-hydroxytryptamine receptor 5A	G-protein coupled receptor	25	0.716	0.231	0.0062906	0.01		1.0	1	0	2006.0	2006.0
+Attention deficit hyperactivity disorder	C1263846	HTR6	3362	P50406	5-hydroxytryptamine receptor 6	G-protein coupled receptor	57	0.626	0.5	0.00018524	0.01		1.0	1	0	2006.0	2006.0
+Attention deficit hyperactivity disorder	C1263846	NAT8L	339983	Q8N9F0	N-acetyltransferase 8 like		32	0.722	0.346	0.86458	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	COL6A4P1	344875		collagen type VI alpha 4 pseudogene 1		21	0.711	0.385		0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	IGF2	3481	P01344	insulin like growth factor 2		604	0.39	0.885	0.044127	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	IGFALS	3483	P35858	insulin like growth factor binding protein acid labile subunit	Receptor	203	0.511	0.846	5.4379e-11	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	APP	351	P05067	amyloid beta precursor protein	Enzyme modulator	485	0.422	0.846	0.046544	0.01		1.0	1	0	2011.0	2011.0
+Attention deficit hyperactivity disorder	C1263846	APRT	353	P07741	adenine phosphoribosyltransferase		384	0.423	0.846	5.4539e-13	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	KLK3	354	P07288	kallikrein related peptidase 3	Enzyme	358	0.443	0.885	4.4271e-06	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	IL1A	3552	P01583	interleukin 1 alpha		1002	0.333	0.962	0.0001602	0.01		1.0	1	0	2004.0	2004.0
+Attention deficit hyperactivity disorder	C1263846	IL2	3558	P60568	interleukin 2		950	0.336	0.885	0.47968	0.01		1.0	1	0	2000.0	2000.0
+Attention deficit hyperactivity disorder	C1263846	IL16	3603	Q14005	interleukin 16	Signaling	193	0.501	0.846	1.2449e-10	0.01		1.0	1	0	2014.0	2014.0
+Attention deficit hyperactivity disorder	C1263846	ITGA1	3672	P56199	integrin subunit alpha 1		58	0.644	0.654	2.6124e-16	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	ITPA	3704	Q9BY32	inosine triphosphatase	Enzyme	77	0.604	0.5	1.0144e-07	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	KCNC1	3746	P48547	potassium voltage-gated channel subfamily C member 1	Ion channel	43	0.711	0.154	0.98957	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	KCNJ5	3762	P48544	potassium inwardly rectifying channel subfamily J member 5	Ion channel	123	0.56	0.577	0.00033577	0.01		1.0	1	0	2014.0	2014.0
+Attention deficit hyperactivity disorder	C1263846	KCNJ6	3763	P48051	potassium inwardly rectifying channel subfamily J member 6	Ion channel	104	0.615	0.692	0.54063	0.01		1.0	1	1	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	KCNJ11	3767	Q14654	potassium inwardly rectifying channel subfamily J member 11	Ion channel	218	0.529	0.615	0.010894	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	SNORC	389084	Q6UX34	secondary ossification center associated regulator of chondrocyte maturation		2	0.931	0.038	0.60161	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	FEZF1	389549	A0PJY2	FEZ family zinc finger 1		73	0.628	0.654	0.95043	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	LAIR1	3903	Q6GTX8	leukocyte associated immunoglobulin like receptor 1	Receptor	89	0.569	0.692	3.2563e-07	0.01		1.0	1	0	2007.0	2007.0
+Attention deficit hyperactivity disorder	C1263846	LOC390714	390714		immunoglobulin heavy chain variable region		55	0.617	0.615		0.01		1.0	1	0	2007.0	2007.0
+Attention deficit hyperactivity disorder	C1263846	LAMB2	3913	P55268	laminin subunit beta 2	Enzyme modulator	116	0.601	0.654	2.5006e-19	0.01		1.0	1	0	2012.0	2012.0
+Attention deficit hyperactivity disorder	C1263846	LAMC2	3918	Q13753	laminin subunit gamma 2	Enzyme modulator	602	0.389	0.923	2.8791e-12	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	ELFN1	392617	P0C7U0	extracellular leucine rich repeat and fibronectin type III domain containing 1		6	0.931	0.077	0.99882	0.01		1.0	1	0	2014.0	2014.0
+Attention deficit hyperactivity disorder	C1263846	LGALS3	3958	P17931	galectin 3	Signaling	557	0.392	0.846	2.3207e-05	0.01		1.0	1	0	2015.0	2015.0
+Attention deficit hyperactivity disorder	C1263846	FADS1	3992	O60427	fatty acid desaturase 1		125	0.582	0.769	0.37384	0.01		1.0	1	0	2006.0	2006.0
+Attention deficit hyperactivity disorder	C1263846	LMNA	4000	P02545	lamin A/C		824	0.384	0.885	0.9994	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	LMX1B	4010	O60663	LIM homeobox transcription factor 1 beta	Nucleic acid binding	132	0.565	0.731	0.74637	0.01		1.0	1	0	2011.0	2011.0
+Attention deficit hyperactivity disorder	C1263846	LRP6	4040	O75581	LDL receptor related protein 6		134	0.536	0.808	0.69664	0.01		1.0	1	1	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	LRP5	4041	O75197	LDL receptor related protein 5		283	0.485	0.846	0.50992	0.01		1.0	1	1	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	CYP4F3	4051	Q08477	cytochrome P450 family 4 subfamily F member 3	Enzyme	114	0.551	0.808	3.5413e-16	0.01		1.0	1	0	2007.0	2007.0
+Attention deficit hyperactivity disorder	C1263846	ARNTL	406	O00327	aryl hydrocarbon receptor nuclear translocator like	Transcription factor	200	0.51	0.885	0.99444	0.01		1.0	1	0	2012.0	2012.0
+Attention deficit hyperactivity disorder	C1263846	DYX8	406874		dyslexia susceptibility 8		6	0.861	0.115		0.01		1.0	1	0	2008.0	2008.0
+Attention deficit hyperactivity disorder	C1263846	MIR107	406901		microRNA 107		123	0.543	0.769		0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	MIR138-1	406929		microRNA 138-1		8	0.861	0.192		0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	MIR142	406934		microRNA 142		220	0.48	0.846		0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	MIR320A	407037		microRNA 320a		145	0.526	0.808		0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	MIR34B	407041		microRNA 34b		165	0.509	0.808		0.01		1.0	1	0	2016.0	2016.0
+Attention deficit hyperactivity disorder	C1263846	MIR34C	407042		microRNA 34c		131	0.541	0.885		0.01		1.0	1	0	2016.0	2016.0
+Attention deficit hyperactivity disorder	C1263846	MXD1	4084	Q05195	MAX dimerization protein 1	Transcription factor	101	0.564	0.692	0.23163	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	MAP1B	4131	P46821	microtubule associated protein 1B	Cellular structure	59	0.628	0.5	1.0	0.01		1.0	1	1	2016.0	2016.0
+Attention deficit hyperactivity disorder	C1263846	MARK1	4139	Q9P0L2	microtubule affinity regulating kinase 1	Kinase	40	0.663	0.577	0.60045	0.01		1.0	1	0	2010.0	2010.0
+Attention deficit hyperactivity disorder	C1263846	MFAP1	4236	P55081	microfibril associated protein 1	Extracellular structure	357	0.431	0.846	0.79602	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	MFGE8	4240	Q08431	milk fat globule-EGF factor 8 protein	Enzyme	120	0.548	0.808	4.3953e-05	0.01		1.0	1	0	2015.0	2015.0
+Attention deficit hyperactivity disorder	C1263846	MIP	4284	P30301	major intrinsic protein of lens fiber	Ion channel	181	0.507	0.846	0.030956	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	NR3C2	4306	P08235	nuclear receptor subfamily 3 group C member 2	Nuclear receptor	287	0.469	0.846	0.83739	0.01		1.0	1	0	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	MNT	4335	Q99583	MAX network transcriptional repressor	Transcription factor	39	0.663	0.615	0.99739	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	MOG	4340	Q16653	myelin oligodendrocyte glycoprotein	Enzyme modulator	136	0.546	0.731	0.13748	0.01		1.0	1	1	2001.0	2001.0
+Attention deficit hyperactivity disorder	C1263846	MPP2	4355	Q14168	membrane palmitoylated protein 2	Enzyme	12	0.78	0.308	2.876e-07	0.01		1.0	1	0	2016.0	2016.0
+Attention deficit hyperactivity disorder	C1263846	ASMT	438	P46597	acetylserotonin O-methyltransferase		27	0.691	0.346	1.2722e-20	0.01		1.0	1	0	2011.0	2011.0
+Attention deficit hyperactivity disorder	C1263846	MIR148B	442892		microRNA 148b		78	0.592	0.692		0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	MSMB	4477	P08118	microseminoprotein beta	Signaling	195	0.498	0.846	0.016199	0.01		1.0	1	0	1999.0	1999.0
+Attention deficit hyperactivity disorder	C1263846	ADHD2	450088		Attention deficit-hyperactivity disorder, susceptibility to, 2		2	0.931	0.115		0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	ADHD4	450090		Attention deficit-hyperactivity disorder, susceptibility to, 4		2	1.0	0.038		0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	MTHFD1	4522	P11586	methylenetetrahydrofolate dehydrogenase, cyclohydrolase and formyltetrahydrofolate synthetase 1	Enzyme	121	0.554	0.769	0.0044614	0.01		1.0	1	1	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	MTNR1A	4543	P48039	melatonin receptor 1A	G-protein coupled receptor	79	0.59	0.808	7.2327e-07	0.01		1.0	1	1	2011.0	2011.0
+Attention deficit hyperactivity disorder	C1263846	MYO5B	4645	Q9ULV0	myosin VB	Cellular structure	60	0.641	0.731	3.3805e-23	0.01		1.0	1	0	2011.0	2011.0
+Attention deficit hyperactivity disorder	C1263846	MYT1	4661	Q01538	myelin transcription factor 1	Transcription factor	28	0.722	0.423	0.97791	0.01		1.0	1	0	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	ATM	472	Q13315	ATM serine/threonine kinase	Kinase	684	0.374	0.885	5.5884e-47	0.01		1.0	1	0	2014.0	2014.0
+Attention deficit hyperactivity disorder	C1263846	NF1	4763	P21359	neurofibromin 1	Enzyme modulator	380	0.44	0.885	0.90175	0.01		1.0	1	0	2012.0	2012.0
+Attention deficit hyperactivity disorder	C1263846	NFKB1	4790	P19838	nuclear factor kappa B subunit 1	Transcription factor	551	0.396	0.923	1.0	0.01		1.0	1	0	2020.0	2020.0
+Attention deficit hyperactivity disorder	C1263846	NGFR	4804	P08138	nerve growth factor receptor	Receptor	256	0.477	0.846	0.097889	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	NTRK1	4914	P04629	neurotrophic receptor tyrosine kinase 1	Kinase	443	0.422	0.808	1.9568e-06	0.01		1.0	1	0	2014.0	2014.0
+Attention deficit hyperactivity disorder	C1263846	NTRK3	4916	Q16288	neurotrophic receptor tyrosine kinase 3	Kinase	150	0.522	0.692	0.9983	0.01		1.0	1	0	2014.0	2014.0
+Attention deficit hyperactivity disorder	C1263846	MIR378A	494327		microRNA 378a		127	0.532	0.808		0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	OPRM1	4988	P35372	opioid receptor mu 1	G-protein coupled receptor	370	0.457	0.808	7.8882e-11	0.01		1.0	1	1	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	PRKN	5071	O60260	parkin RBR E3 ubiquitin protein ligase	Enzyme	409	0.431	0.846	6.9346e-07	0.01		1.0	1	0	2014.0	2014.0
+Attention deficit hyperactivity disorder	C1263846	SPOCK3	50859	Q9BQ16	SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3	Enzyme modulator	7	0.89	0.154	0.013583	0.01		1.0	1	0	2014.0	2014.0
+Attention deficit hyperactivity disorder	C1263846	PC	5091	P11498	pyruvate carboxylase	Enzyme	183	0.515	0.808	0.013834	0.01		0.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	ASCC1	51008	Q8N9N2	activating signal cointegrator 1 complex subunit 1		209	0.495	0.846	2.6051e-14	0.01		1.0	1	0	2020.0	2020.0
+Attention deficit hyperactivity disorder	C1263846	GAL	51083	P22466	galanin and GMAP prepropeptide		226	0.493	0.846	4.3885e-06	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	IPO11	51194	Q9UI26	importin 11	Enzyme modulator	15	0.76	0.385	0.0016626	0.01		1.0	1	0	2015.0	2015.0
+Attention deficit hyperactivity disorder	C1263846	PLA1A	51365	Q53H76	phospholipase A1 member A	Enzyme	35	0.678	0.5	4.3709e-11	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	PDE2A	5138	O00408	phosphodiesterase 2A		47	0.666	0.577	0.631	0.01		1.0	1	0	2016.0	2016.0
+Attention deficit hyperactivity disorder	C1263846	PDE4A	5141	P27815	phosphodiesterase 4A		168	0.523	0.846	0.98167	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	PDE4D	5144	Q08499	phosphodiesterase 4D		210	0.519	0.846	0.9998	0.01		1.0	1	0	2011.0	2011.0
+Attention deficit hyperactivity disorder	C1263846	GPRC5B	51704	Q9NZH0	G protein-coupled receptor class C group 5 member B	G-protein coupled receptor	13	0.805	0.385	0.024183	0.01		1.0	1	1	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	PFN1	5216	P07737	profilin 1		119	0.565	0.769	0.73258	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	SERPINA1	5265	P01009	serpin family A member 1	Enzyme modulator	482	0.41	0.923	6.8497e-08	0.01		1.0	1	0	2011.0	2011.0
+Attention deficit hyperactivity disorder	C1263846	PIK3CB	5291	P42338	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta	Kinase	1083	0.322	0.885	0.99964	0.01		1.0	1	0	2009.0	2009.0
+Attention deficit hyperactivity disorder	C1263846	PIK3CD	5293	O00329	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta	Kinase	1119	0.319	0.885	0.99999	0.01		1.0	1	0	2009.0	2009.0
+Attention deficit hyperactivity disorder	C1263846	SERPINF2	5345	P08697	serpin family F member 2	Enzyme modulator	104	0.575	0.808	0.013624	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	PMCH	5367	P20382	pro-melanin concentrating hormone		57	0.615	0.808	0.11486	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	CNTN5	53942	O94779	contactin 5		34	0.695	0.462	6.1963e-05	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	PON1	5444	P27169	paraoxonase 1		496	0.409	0.885	9.8142e-11	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	CCHCR1	54535	Q8TD31	coiled-coil alpha-helical rod protein 1		193	0.505	0.808	1.0122e-16	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	P4HTM	54681	Q9NXG6	prolyl 4-hydroxylase, transmembrane		59	0.666	0.5	3.9204e-09	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	PPIA	5478	P62937	peptidylprolyl isomerase A		180	0.51	0.769	0.55734	0.01		1.0	1	0	2016.0	2016.0
+Attention deficit hyperactivity disorder	C1263846	TRIT1	54802	Q9H3H1	tRNA isopentenyltransferase 1	Enzyme	73	0.621	0.692	4.0895e-11	0.01		1.0	1	0	2005.0	2005.0
+Attention deficit hyperactivity disorder	C1263846	TTC12	54970	Q9H892	tetratricopeptide repeat domain 12		15	0.78	0.192	1.7871e-17	0.01		1.0	1	1	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	AVP	551	P01185	arginine vasopressin	Signaling	454	0.437	0.846	0.074413	0.01		1.0	1	0	2010.0	2010.0
+Attention deficit hyperactivity disorder	C1263846	PIDD1	55367	Q9HB75	p53-induced death domain protein 1		15	0.76	0.231	6.435e-17	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	SLC30A10	55532	Q6XR72	solute carrier family 30 member 10	Transporter	120	0.578	0.654	0.97952	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	PRKCB	5579	P05771	protein kinase C beta	Kinase	317	0.453	0.885	1.0	0.01		1.0	1	1	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	PRKCD	5580	Q05655	protein kinase C delta	Kinase	287	0.48	0.846	0.99995	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	EAF2	55840	Q96CJ1	ELL associated factor 2		35	0.695	0.538	2.2166e-07	0.01		1.0	1	0	2003.0	2003.0
+Attention deficit hyperactivity disorder	C1263846	ASH1L	55870	Q9NR48	ASH1 like histone lysine methyltransferase		63	0.623	0.577	1.0	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	PSPN	5623	O60542	persephin	Signaling	70	0.608	0.769	0.00011172	0.01		1.0	1	0	1999.0	1999.0
+Attention deficit hyperactivity disorder	C1263846	PROC	5624	P04070	protein C, inactivator of coagulation factors Va and VIIIa	Enzyme	200	0.504	0.808	1.9118e-05	0.01		1.0	1	0	2020.0	2020.0
+Attention deficit hyperactivity disorder	C1263846	KYAT3	56267	Q6YP21	kynurenine aminotransferase 3	Enzyme	18	0.76	0.269	7.1258e-16	0.01		1.0	1	0	2014.0	2014.0
+Attention deficit hyperactivity disorder	C1263846	RELN	5649	P78509	reelin		178	0.515	0.731	1.0	0.01		1.0	1	2	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	DNAJC12	56521	Q9UKB3	DnaJ heat shock protein family (Hsp40) member C12		35	0.705	0.423	2.0723e-06	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	PSD	5662	A5PKW4	pleckstrin and Sec7 domain containing		59	0.626	0.654	0.90358	0.01		1.0	1	0	2016.0	2016.0
+Attention deficit hyperactivity disorder	C1263846	PSG5	5673	Q15238	pregnancy specific beta-1-glycoprotein 5		61	0.631	0.615	8.8239e-22	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	LXN	56925	Q9BS40	latexin		63	0.633	0.615	1.8254e-06	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	PSPH	5723	P78330	phosphoserine phosphatase	Enzyme	114	0.57	0.808	0.00096703	0.01		1.0	1	0	1999.0	1999.0
+Attention deficit hyperactivity disorder	C1263846	PTGDS	5730	P41222	prostaglandin D2 synthase	Enzyme	195	0.503	0.846	0.0050922	0.01		1.0	1	0	2012.0	2012.0
+Attention deficit hyperactivity disorder	C1263846	PTH	5741	P01270	parathyroid hormone		528	0.397	0.846	0.012093	0.01		1.0	1	0	2020.0	2020.0
+Attention deficit hyperactivity disorder	C1263846	KIDINS220	57498	Q9ULH0	kinase D interacting substrate 220		145	0.534	0.769	0.073562	0.01		1.0	1	0	2016.0	2016.0
+Attention deficit hyperactivity disorder	C1263846	NUFIP2	57532	Q7Z417	nuclear FMR1 interacting protein 2		58	0.641	0.577	0.99891	0.01		1.0	1	0	2009.0	2009.0
+Attention deficit hyperactivity disorder	C1263846	LRRC7	57554	Q96NW7	leucine rich repeat containing 7		26	0.722	0.462	1.0	0.01		1.0	1	0	2016.0	2016.0
+Attention deficit hyperactivity disorder	C1263846	DPP10	57628	Q8N608	dipeptidyl peptidase like 10	Enzyme	32	0.695	0.577	0.99999	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	HAMP	57817	P81172	hepcidin antimicrobial peptide		377	0.433	0.846	0.0081797	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	PTPRC	5788	P08575	protein tyrosine phosphatase receptor type C	Enzyme	366	0.435	0.808	1.0	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	PTPRN2	5799	Q92932	protein tyrosine phosphatase receptor type N2		40	0.678	0.577	5.392e-07	0.01		1.0	1	0	2011.0	2011.0
+Attention deficit hyperactivity disorder	C1263846	PEX2	5828	P28328	peroxisomal biogenesis factor 2		152	0.582	0.654	0.00025931	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	RAB3A	5864	P20336	RAB3A, member RAS oncogene family		30	0.691	0.462	0.9463	0.01		1.0	1	0	2004.0	2004.0
+Attention deficit hyperactivity disorder	C1263846	RARA	5914	P10276	retinoic acid receptor alpha	Nuclear receptor	274	0.47	0.846	0.96305	0.01		1.0	1	0	2005.0	2005.0
+Attention deficit hyperactivity disorder	C1263846	REG1A	5967	P05451	regenerating family member 1 alpha		264	0.467	0.846	1.3499e-05	0.01		1.0	1	0	1999.0	1999.0
+Attention deficit hyperactivity disorder	C1263846	S100B	6285	P04271	S100 calcium binding protein B	Calcium-binding protein	599	0.383	0.923	0.04387	0.01		1.0	1	0	2014.0	2014.0
+Attention deficit hyperactivity disorder	C1263846	ATXN7	6314	O15265	ataxin 7		162	0.581	0.654	0.9595	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	SCD	6319	O00767	stearoyl-CoA desaturase		225	0.49	0.808	0.96968	0.01		1.0	1	0	2006.0	2006.0
+Attention deficit hyperactivity disorder	C1263846	SCT	6343	P09683	secretin		230	0.484	0.846	1.4425e-07	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	BHMT	635	Q93088	betaine--homocysteine S-methyltransferase		71	0.595	0.731	3.739e-14	0.01		1.0	1	1	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	CCL11	6356	P51671	C-C motif chemokine ligand 11	Signaling	250	0.473	0.885	0.010211	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	SDHD	6392	O14521	succinate dehydrogenase complex subunit D	Transporter	348	0.472	0.885	0.33697	0.01		1.0	1	0	2016.0	2016.0
+Attention deficit hyperactivity disorder	C1263846	SLC39A8	64116	Q9C0K1	solute carrier family 39 member 8	Transporter	138	0.584	0.769	0.66924	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	NSD1	64324	Q96L73	nuclear receptor binding SET domain protein 1	Epigenetic regulator	247	0.505	0.769	1.0	0.01		1.0	1	0	2006.0	2006.0
+Attention deficit hyperactivity disorder	C1263846	SKI	6497	P12755	SKI proto-oncogene		255	0.503	0.808	0.99901	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	SLC5A4	6527	Q9NY91	solute carrier family 5 member 4	Transporter	10	0.839	0.192	1.148e-16	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	SLC6A1	6529	P30531	solute carrier family 6 member 1	Transporter	106	0.592	0.538	0.99993	0.01		1.0	1	3	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	SLC16A1	6566	P53985	solute carrier family 16 member 1	Transporter	195	0.499	0.846	0.00073565	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	SLC18A2	6571	Q05940	solute carrier family 18 member A2	Transporter	150	0.554	0.769	0.075523	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	SMN1	6606	Q16637	survival of motor neuron 1, telomeric	Epigenetic regulator	317	0.454	0.769	0.015829	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	SMN2	6607	Q16637	survival of motor neuron 2, centromeric		299	0.459	0.769	0.10337	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	SNCA	6622	P37840	synuclein alpha	Transporter	449	0.427	0.885	0.8829	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	SRY	6736	Q05066	sex determining region Y	Transcription factor	315	0.456	0.808		0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	SST	6750	P61278	somatostatin	Signaling	535	0.399	0.885	0.34128	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	STAT6	6778	P42226	signal transducer and activator of transcription 6	Nucleic acid binding	281	0.475	0.808	0.98849	0.01		1.0	1	0	2006.0	2006.0
+Attention deficit hyperactivity disorder	C1263846	STATH	6779	P02808	statherin		57	0.608	0.769	7.9792e-05	0.01		1.0	1	0	2008.0	2008.0
+Attention deficit hyperactivity disorder	C1263846	CDKL5	6792	O76039	cyclin dependent kinase like 5	Kinase	224	0.522	0.692	0.99932	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	STXBP3	6814	O00186	syntaxin binding protein 3	Transporter	69	0.61	0.769	5.1597e-05	0.01		1.0	1	0	1999.0	1999.0
+Attention deficit hyperactivity disorder	C1263846	SULT2A1	6822	Q06520	sulfotransferase family 2A member 1		126	0.545	0.769	1.2523e-15	0.01		0.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	TH	7054	P07101	tyrosine hydroxylase		321	0.462	0.885	1.6878e-06	0.01		1.0	1	0	2000.0	2000.0
+Attention deficit hyperactivity disorder	C1263846	THAS	7055		thoracoabdominal syndrome		120	0.56	0.808		0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	THBS3	7059	P49746	thrombospondin 3		19	0.792	0.269	2.5795e-21	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	THRA	7067	P10827	thyroid hormone receptor alpha	Nuclear receptor	124	0.566	0.769	0.32748	0.01		1.0	1	0	2001.0	2001.0
+Attention deficit hyperactivity disorder	C1263846	THRSP	7069	Q92748	thyroid hormone responsive		33	0.695	0.462	0.0029238	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	TSPAN8	7103	P19075	tetraspanin 8		63	0.617	0.577	0.0055131	0.01		1.0	1	0	2011.0	2011.0
+Attention deficit hyperactivity disorder	C1263846	TNR	7143	Q92752	tenascin R	Signaling	36	0.686	0.346	0.52437	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	PHLDA2	7262	Q53GA4	pleckstrin homology like domain family A member 2		58	0.636	0.615	0.15046	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	CLEC19A	728276	Q6UXS0	C-type lectin domain containing 19A		1	1.0	0.038	0.0037987	0.01		1.0	1	0	2014.0	2014.0
+Attention deficit hyperactivity disorder	C1263846	TWIST1	7291	Q15672	twist family bHLH transcription factor 1	Transcription factor	559	0.397	0.846	0.34491	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	STXBP5-AS1	729178		STXBP5 antisense RNA 1		12	0.805	0.192		0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	TXN	7295	P10599	thioredoxin		338	0.447	0.885	0.20119	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	VDR	7421	P11473	vitamin D receptor	Nuclear receptor	852	0.352	0.885	1.6787e-05	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	VIPR2	7434	P41587	vasoactive intestinal peptide receptor 2	G-protein coupled receptor	58	0.619	0.692	4.718e-11	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	TRIM25	7706	Q14258	tripartite motif containing 25		58	0.633	0.462	0.0041202	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	ZMYM2	7750	Q9UBW7	zinc finger MYM-type containing 2	Enzyme modulator	77	0.599	0.654	0.66648	0.01		1.0	1	0	2003.0	2003.0
+Attention deficit hyperactivity disorder	C1263846	FTO	79068	Q9C0B1	FTO alpha-ketoglutarate dependent dioxygenase		286	0.486	0.885	8.364e-08	0.01		1.0	1	1	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	MBOAT7	79143	Q96N66	membrane bound O-acyltransferase domain containing 7	Enzyme	83	0.612	0.5	0.113	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	ZBBX	79740	A8MT70	zinc finger B-box domain containing		2	0.931	0.077	2.9306e-21	0.01		1.0	1	0	2011.0	2011.0
+Attention deficit hyperactivity disorder	C1263846	MICALL2	79778	Q8IY33	MICAL like 2		13	0.839	0.269	3.442e-26	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	RNF122	79845	Q9H9V4	ring finger protein 122		1	1.0	0.038	0.14077	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	KCNIP4	80333	Q6PIL6	potassium voltage-gated channel interacting protein 4	Ion channel	31	0.716	0.385	0.82064	0.01		1.0	1	0	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	LMAN2L	81562	Q9H0V9	lectin, mannose binding 2 like	Transporter	59	0.641	0.385	1.9629e-11	0.01		1.0	1	0	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	CASP3	836	P42574	caspase 3	Enzyme	819	0.351	0.923	0.10017	0.01		1.0	1	0	2020.0	2020.0
+Attention deficit hyperactivity disorder	C1263846	PPP1R1B	84152	Q9UD71	protein phosphatase 1 regulatory inhibitor subunit 1B	Enzyme modulator	82	0.617	0.5	0.24098	0.01		0.0	1	0	2008.0	2008.0
+Attention deficit hyperactivity disorder	C1263846	NTPCR	84284	Q9BSD7	nucleoside-triphosphatase, cancer-related	Enzyme	8	0.805	0.115	0.0025124	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	ZGPAT	84619	Q8N5A5	zinc finger CCCH-type and G-patch domain containing		54	0.653	0.654	0.00038328	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	BHLHE40	8553	O14503	basic helix-loop-helix family member e40	Transcription factor	113	0.544	0.731	0.99444	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	USO1	8615	O60763	USO1 vesicle transport factor	Transporter	153	0.522	0.885	0.33417	0.01		1.0	1	0	2003.0	2003.0
+Attention deficit hyperactivity disorder	C1263846	B4GALT2	8704	O60909	beta-1,4-galactosyltransferase 2	Enzyme	6	0.861	0.269	0.19829	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	CBS	875	P0DN79;P35520	cystathionine beta-synthase	Enzyme	295	0.465	0.885	3.0799e-05	0.01		1.0	1	1	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	LIN7A	8825	O14910	lin-7 homolog A, crumbs cell polarity complex component	Cell-cell junction	24	0.736	0.385	1.1286e-07	0.01		1.0	1	0	2008.0	2008.0
+Attention deficit hyperactivity disorder	C1263846	NRP2	8828	O60462	neuropilin 2		144	0.539	0.615	0.00080686	0.01		1.0	1	0	2014.0	2014.0
+Attention deficit hyperactivity disorder	C1263846	NRP1	8829	O14786	neuropilin 1		246	0.476	0.808	0.98584	0.01		1.0	1	0	2014.0	2014.0
+Attention deficit hyperactivity disorder	C1263846	KYAT1	883	Q16773	kynurenine aminotransferase 1	Enzyme	24	0.736	0.308	1.8743e-12	0.01		1.0	1	0	2014.0	2014.0
+Attention deficit hyperactivity disorder	C1263846	ARHGEF7	8874	Q14155	Rho guanine nucleotide exchange factor 7		215	0.486	0.846	0.99995	0.01		1.0	1	0	2020.0	2020.0
+Attention deficit hyperactivity disorder	C1263846	CHRNA6	8973	Q15825	cholinergic receptor nicotinic alpha 6 subunit	Ion channel	26	0.711	0.346	3.5719e-08	0.01		1.0	1	1	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	SELENBP1	8991	Q13228	selenium binding protein 1	Immune response	214	0.493	0.846	3.2268e-16	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	KALRN	8997	O60229	kalirin RhoGEF kinase	Kinase	59	0.644	0.654	1.0	0.01		1.0	1	0	2008.0	2008.0
+Attention deficit hyperactivity disorder	C1263846	ARTN	9048	Q5T4W7	artemin	Signaling	248	0.48	0.846	0.35793	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	CCT	907		cataract, congenital, total		75	0.588	0.769		0.01		0.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	PKMYT1	9088	Q99640	protein kinase, membrane associated tyrosine/threonine 1	Kinase	27	0.7	0.385	0.21858	0.01		1.0	1	0	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	PDLIM1	9124	O00151	PDZ and LIM domain 1	Cellular structure	25	0.729	0.423	0.0014717	0.01		1.0	1	0	2012.0	2012.0
+Attention deficit hyperactivity disorder	C1263846	SLC39A13	91252	Q96H72	solute carrier family 39 member 13	Transporter	67	0.666	0.538	0.0025092	0.01		1.0	1	0	2016.0	2016.0
+Attention deficit hyperactivity disorder	C1263846	NDUFAF2	91942	Q8N183	NADH:ubiquinone oxidoreductase complex assembly factor 2		89	0.641	0.577	2.078e-06	0.01		1.0	1	0	2011.0	2011.0
+Attention deficit hyperactivity disorder	C1263846	LGI1	9211	O95970	leucine rich glioma inactivated 1		118	0.568	0.731	0.99914	0.01		1.0	1	0	2013.0	2013.0
+Attention deficit hyperactivity disorder	C1263846	MTA2	9219	O94776	metastasis associated 1 family member 2	Nucleic acid binding	93	0.579	0.808	0.74479	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	DLGAP1	9229	O14490	DLG associated protein 1	Receptor	35	0.691	0.385	0.99875	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	GPR50	9248	Q13585	G protein-coupled receptor 50	G-protein coupled receptor	31	0.686	0.462	0.64639	0.01		1.0	1	0	2011.0	2011.0
+Attention deficit hyperactivity disorder	C1263846	PDLIM7	9260	Q9NR12	PDZ and LIM domain 7	Cellular structure	241	0.474	0.808	0.70838	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	TGM5	9333	O43548	transglutaminase 5	Enzyme	48	0.656	0.615	2.4183e-25	0.01		1.0	1	0	2016.0	2016.0
+Attention deficit hyperactivity disorder	C1263846	NRXN1	9378	P58400;Q9ULB1	neurexin 1		139	0.581	0.692	0.99964	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	FADS2	9415	O95864	fatty acid desaturase 2		140	0.575	0.692	0.99815	0.01		1.0	1	1	2006.0	2006.0
+Attention deficit hyperactivity disorder	C1263846	ITM2B	9445	Q9Y287	integral membrane protein 2B		77	0.617	0.654	0.62589	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	ADAMTS2	9509	O95450	ADAM metallopeptidase with thrombospondin type 1 motif 2	Enzyme	138	0.579	0.808	0.9661	0.01		1.0	1	0	1996.0	1996.0
+Attention deficit hyperactivity disorder	C1263846	CD38	952	P28907	CD38 molecule	Enzyme	473	0.407	0.885	2.3129e-06	0.01		1.0	1	0	2007.0	2007.0
+Attention deficit hyperactivity disorder	C1263846	BCAR1	9564	P56945	BCAR1 scaffold protein, Cas family member		176	0.518	0.846	0.99808	0.01		1.0	1	0	2018.0	2018.0
+Attention deficit hyperactivity disorder	C1263846	CD40	958	P25942	CD40 molecule		528	0.396	0.846	0.84603	0.01		1.0	1	0	2020.0	2020.0
+Attention deficit hyperactivity disorder	C1263846	CARTPT	9607	Q16568	CART prepropeptide		115	0.576	0.692	0.093729	0.01		1.0	1	0	2008.0	2008.0
+Attention deficit hyperactivity disorder	C1263846	CD79A	973	P11912	CD79a molecule	Receptor	134	0.536	0.731	0.69226	0.01		1.0	1	0	2019.0	2019.0
+Attention deficit hyperactivity disorder	C1263846	BMS1	9790	Q14692	BMS1 ribosome biogenesis factor		192	0.499	0.846	0.0001753	0.01		1.0	1	0	2017.0	2017.0
+Attention deficit hyperactivity disorder	C1263846	SLC12A6	9990	Q9UHW9	solute carrier family 12 member 6	Transporter	97	0.603	0.5	0.011377	0.01		1.0	1	0	2009.0	2009.0
+Attention deficit hyperactivity disorder, combined type	C2945552	ADRA2A	150	P08913	adrenoceptor alpha 2A	G-protein coupled receptor	102	0.578	0.615	0.00081816	0.01		1.0	1	0	2006.0	2006.0
+Attention deficit hyperactivity disorder, combined type	C2945552	ADRA2C	152	P18825	adrenoceptor alpha 2C	G-protein coupled receptor	40	0.682	0.346	0.50159	0.01		1.0	1	0	2009.0	2009.0
+Attention deficit hyperactivity disorder, combined type	C2945552	DRD4	1815	P21917	dopamine receptor D4	G-protein coupled receptor	189	0.517	0.577	9.3362e-09	0.01		1.0	1	0	2006.0	2006.0
+Attention deficit hyperactivity disorder, combined type	C2945552	ADGRL3	23284	Q9HAR2	adhesion G protein-coupled receptor L3	G-protein coupled receptor	25	0.729	0.385	1.0	0.01		1.0	1	0	2011.0	2011.0

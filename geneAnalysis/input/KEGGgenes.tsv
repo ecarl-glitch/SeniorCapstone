@@ -1,0 +1,45 @@
+# KEGG genes for Tryptophan metabolism pathway - human (hsa00380)
+# downloaded from https://www.genome.jp/dbget-bin/get_linkdb?-t+genes+path:hsa00380
+geneID	geneName	geneInfo
+hsa:11185	K00562	methyltransferase [EC:2.1.1.49 2.1.1.96] | (RefSeq) INMT, TEMT; indolethylamine N-methyltrans 
+hsa:121278	K00502 	tryptophan 5-monooxygenase [EC:1.14.16.4] | (RefSeq) TPH2, ADHD7, NTPH; tryptophan hydroxylas 
+hsa:125061	K01432	arylformamidase [EC:3.5.1.9] | (RefSeq) AFMID, FKF, KF, KFA; arylformamidase 
+hsa:130013	K03392 	aminocarboxymuconate-semialdehyde decarboxylase [EC:4.1.1.45] | (RefSeq) ACMSD; aminocarboxym 
+hsa:15	K00669 	arylalkylamine N-acetyltransferase [EC:2.3.1.87] | (RefSeq) AANAT, DSPS, SNAT; aralkylamine N 
+hsa:1543	K07408 	cytochrome P450 family 1 subfamily A1 [EC:1.14.14.1] | (RefSeq) CYP1A1, AHH, AHRR, CP11, CYP1 
+hsa:1544	K07409 	cytochrome P450 family 1 subfamily A2 [EC:1.14.14.1] | (RefSeq) CYP1A2, CP12, CYPIA2, P3-450, 
+hsa:1545	K07410 	cytochrome P450 family 1 subfamily B1 [EC:1.14.14.1] | (RefSeq) CYP1B1, ASGD6, CP1B, CYPIB1,  
+hsa:1644	K01593 	aromatic-L-amino-acid/L-tryptophan decarboxylase [EC:4.1.1.28 4.1.1.105] | (RefSeq) DDC, AADC 
+hsa:169355	K00463 	indoleamine 2,3-dioxygenase [EC:1.13.11.52] | (RefSeq) IDO2, INDOL1; indoleamine 2,3-dioxygen 
+hsa:1738	K00382 	dihydrolipoamide dehydrogenase [EC:1.8.1.4] | (RefSeq) DLD, DLDD, DLDH, E3, GCSL, LAD, OGDC-E 
+hsa:1743	K00658 	2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase) [EC:2.3.1.61 
+hsa:1892	K07511 	enoyl-CoA hydratase [EC:4.2.1.17] | (RefSeq) ECHS1, ECHS1D, SCEH, mECH, mECH1; enoyl-CoA hydr 
+hsa:1962	K07514 	enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase [EC:4.2 
+hsa:217	K00128 	aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] | (RefSeq) ALDH2, ALDH-E2, ALDHI, ALDM; aldehyde d 
+hsa:219	K00128 	aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] | (RefSeq) ALDH1B1, ALDH5, ALDHX; aldehyde dehydro 
+hsa:223	K00149 	aldehyde dehydrogenase family 9 member A1 [EC:1.2.1.47 1.2.1.3] | (RefSeq) ALDH9A1, ALDH4, AL 
+hsa:224	K00128 	aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] | (RefSeq) ALDH3A2, ALDH10, FALDH, SLS; aldehyde d 
+hsa:23498	K00452 	3-hydroxyanthranilate 3,4-dioxygenase [EC:1.13.11.6] | (RefSeq) HAAO, 3-HAO, HAO, VCRL1, h3HA 
+hsa:259307	K03334 	L-amino-acid oxidase [EC:1.4.3.2] | (RefSeq) IL4I1, FIG1, LAAO, LAO, hIL4I1; interleukin 4 in 
+hsa:26	K11182 	diamine oxidase [EC:1.4.3.22] | (RefSeq) AOC1, ABP, ABP1, DAO, DAO1, KAO; amine oxidase coppe 
+hsa:2639	K00252 	glutaryl-CoA dehydrogenase [EC:1.3.8.6] | (RefSeq) GCDH, ACAD5, GCD; glutaryl-CoA dehydrogena 
+hsa:3030	K07515 	enoyl-CoA hydratase / long-chain 3-hydroxyacyl-CoA dehydrogenase [EC:4.2.1.17 1.1.1.211] | (R 
+hsa:3033	K00022 	3-hydroxyacyl-CoA dehydrogenase [EC:1.1.1.35] | (RefSeq) HADH, HAD, HADH1, HADHSC, HCDH, HHF4 
+hsa:316	K00157 	aldehyde oxidase [EC:1.2.3.1] | (RefSeq) AOX1, AO, AOH1; aldehyde oxidase 1 
+hsa:3620	K00463 	indoleamine 2,3-dioxygenase [EC:1.13.11.52] | (RefSeq) IDO1, IDO, IDO-1, INDO; indoleamine 2, 
+hsa:38	K00626 	acetyl-CoA C-acetyltransferase [EC:2.3.1.9] | (RefSeq) ACAT1, ACAT, MAT, T2, THIL; acetyl-CoA 
+hsa:39	K00626 	acetyl-CoA C-acetyltransferase [EC:2.3.1.9] | (RefSeq) ACAT2; acetyl-CoA acetyltransferase 2 
+hsa:4128	K00274 	monoamine oxidase [EC:1.4.3.4] | (RefSeq) MAOA, BRNRS, MAO-A; monoamine oxidase A 
+hsa:4129	K00274 	monoamine oxidase [EC:1.4.3.4] | (RefSeq) MAOB; monoamine oxidase B 
+hsa:438	K00543 	acetylserotonin O-methyltransferase [EC:2.1.1.4] | (RefSeq) ASMT, ASMTY, HIOMT, HIOMTY; acety 
+hsa:501	K14085 	aldehyde dehydrogenase family 7 member A1 [EC:1.2.1.31 1.2.1.8 1.2.1.3] | (RefSeq) ALDH7A1, A 
+hsa:51166	K00825 	kynurenine/2-aminoadipate aminotransferase [EC:2.6.1.7 2.6.1.39] | (RefSeq) AADAT, KAT2, KATI 
+hsa:55526	K15791 	probable 2-oxoglutarate dehydrogenase E1 component DHKTD1 [EC:1.2.4.2] | (RefSeq) DHTKD1, AAK 
+hsa:56267	K00816 	kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenyl 
+hsa:64577	K23234 	aminomuconate-semialdehyde dehydrogenase [EC:1.2.1.32] | (RefSeq) ALDH8A1, ALDH12, DJ352A20.2 
+hsa:6999	K00453 	tryptophan 2,3-dioxygenase [EC:1.13.11.11] | (RefSeq) TDO2, HYPTRP, TDO, TO, TPH2, TRPO; tryp 
+hsa:7166	K00502 	tryptophan 5-monooxygenase [EC:1.14.16.4] | (RefSeq) TPH1, TPRH, TRPH, TPH; tryptophan hydrox 
+hsa:847	K03781 	catalase [EC:1.11.1.6] | (RefSeq) CAT; catalase 
+hsa:8564	K00486 	kynurenine 3-monooxygenase [EC:1.14.13.9] | (RefSeq) KMO, dJ317G22.1; kynurenine 3-monooxygen 
+hsa:883	K00816 	kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenyl 
+hsa:8942	K01556	 kynureninase [EC:3.7.1.3] | (RefSeq) KYNU, KYNUU, VCRL2; kynureninase 
