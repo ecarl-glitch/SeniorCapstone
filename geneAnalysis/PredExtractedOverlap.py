@@ -6,7 +6,7 @@ KEGGmetabolites = "output/metaboliteKEGG.tsv"
 KEGGmetabolitesDF = pd.read_csv(KEGGmetabolites, sep='\t', comment='#')
 KEGGmetaboliteList = KEGGmetabolitesDF['MetaboliteName'].tolist()
 
-trpNetMetabolite = "trpNet/TrpNetMicrobeFromMetabolite.csv"
+trpNetMetabolite = "trpNet/TrpNetMetaboliteFromMicrobe.csv"
 trpNetMetaboliteDF = pd.read_csv(trpNetMetabolite, comment='#')
 trpNetMetaboliteList = trpNetMetaboliteDF['Metabolite'].tolist()
 
@@ -22,7 +22,7 @@ passedMicrobesDF = pd.read_csv(passedMicrobes, sep='\t', comment='#')
 passedMicrobesList = passedMicrobesDF['scientific_name'].tolist()
 
 
-trpNetMicrobe = "trpNet/TrpNetMetaboliteFromMicrobes.csv"
+trpNetMicrobe = "trpNet/TrpNetMicrobeFromMetabolite.csv"
 trpNetMicrobeDF = pd.read_csv(trpNetMicrobe, comment='#')
 trpNetMicrobeList = trpNetMicrobeDF['Taxa'].tolist()
 
